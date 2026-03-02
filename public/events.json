@@ -2582,19 +2582,6 @@
     }
   },
   {
-    "title": "EventOr Cyprus | Find Events",
-    "start": "2026-01-01T00:00:00",
-    "end": "2026-12-31T23:59:59",
-    "url": "https://eventor.com.cy",
-    "extendedProps": {
-      "type": "directory",
-      "description": "EventOr Cyprus Homepage - Find Events, Activities & Things to Do Across Cyprus",
-      "location": "Cyprus",
-      "district": "Cyprus",
-      "language": "en"
-    }
-  },
-  {
     "title": "SOEN: Live at Royal Hall Nicosia 2026",
     "start": "2026-06-12T20:00:00",
     "end": "2026-06-12T23:59:00",
@@ -2733,19 +2720,6 @@
       "description": "A full-day technology expo focused on artificial intelligence, innovation, and networking.",
       "location": "Radisson Blu Hotel, Larnaca",
       "district": "Larnaca",
-      "language": "en"
-    }
-  },
-  {
-    "title": "EventOr Cyprus | Find Events",
-    "start": "2026-01-01T00:00:00",
-    "end": "2026-12-31T23:59:59",
-    "url": "https://eventor.com.cy/events",
-    "extendedProps": {
-      "type": "directory",
-      "description": "EventOr Cyprus Upcoming Events list page.",
-      "location": "Cyprus",
-      "district": "Cyprus",
       "language": "en"
     }
   },

@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
@@ -8,6 +8,9 @@ import { Box, CircularProgress, Typography } from '@mui/material';
 import type { EventClickArg } from '@fullcalendar/core';
 import type { CalendarEvent, CalendarEventExtendedProps } from '../types/event';
 import EventPopover from './EventPopover';
+
+/** Events longer than this render as dots instead of spanning bars */
+const LONG_EVENT_THRESHOLD_DAYS = 7;
 
 export default function EventCalendar() {
     const [events, setEvents] = useState<CalendarEvent[]>([]);
@@ -39,6 +42,20 @@ export default function EventCalendar() {
                 setLoading(false);
             });
     }, []);
+
+    // Show long-duration events as dots instead of spanning bars
+    const displayEvents = useMemo(() => {
+        return events.map((event) => {
+            if (!event.end) return event;
+            const start = new Date(event.start).getTime();
+            const end = new Date(event.end).getTime();
+            const durationDays = (end - start) / (1000 * 60 * 60 * 24);
+            if (durationDays > LONG_EVENT_THRESHOLD_DAYS) {
+                return { ...event, display: 'list-item' as const };
+            }
+            return event;
+        });
+    }, [events]);
 
     const handleEventClick = useCallback((info: EventClickArg) => {
         // Prevent FullCalendar from navigating to the event URL
@@ -85,7 +102,7 @@ export default function EventCalendar() {
                     center: 'title',
                     right: 'dayGridMonth,listMonth',
                 }}
-                events={events}
+                events={displayEvents}
                 eventClick={handleEventClick}
                 height="auto"
                 nowIndicator
