@@ -1,0 +1,3853 @@
+[
+  {
+    "title": "Accio Piano Trio",
+    "start": "2026-03-04T20:30:00",
+    "url": "http://www.pharosartsfoundation.org/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Cyprus debut of the chamber music trio.",
+      "location": "The Shoe Factory, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "7th Almond Blossom Festival",
+    "start": "2026-02-15T11:00:00",
+    "url": "https://cyprus-mail.com/2026/02/14/paphos-village-in-full-bloom-with-annual-almond-blossom-festival",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Village festival celebrating the almond trees. Live entertainment, workshops, markets, exhibitions and more.",
+      "location": "Giolou village square",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Premiere 4 (Nicosia)",
+    "start": "2026-02-19T20:30:00",
+    "url": "http://www.cyso.org.cy/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Cyprus Symphony Orchestra concert with cellist Peter Gospodinov and conductor Kalle Kuusava.",
+      "location": "Pallas Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Premiere 4 (Larnaca)",
+    "start": "2026-02-20T20:30:00",
+    "url": "http://www.cyso.org.cy/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Cyprus Symphony Orchestra concert with cellist Peter Gospodinov and conductor Kalle Kuusava.",
+      "location": "Municipal Theatre G. Lycourgos, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Apovathra / Power Beach",
+    "start": "2026-02-17T00:00:00",
+    "end": "2026-03-14T23:59:59",
+    "url": "http://www.theeditgallery.com/",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "Solo photography exhibition by Christos Hadjichristou.",
+      "location": "The Edit Gallery, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "An Evening of Tango and Lyricism",
+    "start": "2026-02-27T20:00:00",
+    "url": "http://www.technopolis20.com/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Concert with Katerina Parpouna on the saxophone and Michalis Hilides on the piano playing music by Debussy, Piazzolla, Williams and others.",
+      "location": "Technopolis 20, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "George Kotsonis Exhibition",
+    "start": "2026-02-20T19:30:00",
+    "end": "2026-03-10T20:00:00",
+    "url": "http://www.gloriagallery.com/",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "Painting, sculpture and mosaic exhibition by George Kotsonis.",
+      "location": "Gloria Gallery, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Nicosia Walk: The enduring legacies of a contested past",
+    "start": "2026-02-28T10:00:00",
+    "end": "2026-02-28T12:00:00",
+    "url": "https://www.home4cooperation.info/",
+    "extendedProps": {
+      "type": "walk",
+      "description": "Guided Nicosia walk with Maria Georgiou exploring how national, gender and social 'walls' continue to structure the city.",
+      "location": "Home for Cooperation, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Tasting Series Vol.1 – Cypriot Food",
+    "start": "2026-03-07T19:00:00",
+    "end": "2026-03-07T22:00:00",
+    "url": "https://www.home4cooperation.info/",
+    "extendedProps": {
+      "type": "food",
+      "description": "Culinary experience with 6-course tasting menu of Cypriot flavours paired with European wines. Curated by Munevver Gurel.",
+      "location": "The Home Café, Home for Cooperation, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Stories in the Making",
+    "start": "2026-03-01T15:00:00",
+    "end": "2026-03-01T19:00:00",
+    "url": "https://www.theopennestcompany.com/work/stories-in-the-making/",
+    "extendedProps": {
+      "type": "gathering",
+      "description": "First community event for artists, creatives and all, marking the beginning of the Open Nest Company.",
+      "location": "Vavla Cultural Centre, Vavla village",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sustainable Bazaar",
+    "start": "2026-02-28T10:00:00",
+    "end": "2026-02-28T18:00:00",
+    "url": "https://cyprus-mail.com/2026/02/22/spring-pop-up-bazaars-and-where-to-find-them",
+    "extendedProps": {
+      "type": "bazaar",
+      "description": "Second-hand clothes, accessories and more. Organized by ARIAM Sustainable Fashion.",
+      "location": "New Division, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Second Life Wardrobe Gala – XXL Edition",
+    "start": "2026-02-28T11:00:00",
+    "end": "2026-03-01T19:00:00",
+    "url": "https://cyprus-mail.com/2026/02/22/spring-pop-up-bazaars-and-where-to-find-them",
+    "extendedProps": {
+      "type": "bazaar",
+      "description": "Pre-loved items, handmade creations, food, DJs, music and coffee.",
+      "location": "Yfantourgeio the Workplace, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Thrift Therapy — Grand Opening & Trunk Show",
+    "start": "2026-03-01T12:00:00",
+    "end": "2026-03-01T20:00:00",
+    "url": "https://cyprus-mail.com/2026/02/22/spring-pop-up-bazaars-and-where-to-find-them",
+    "extendedProps": {
+      "type": "bazaar",
+      "description": "Curated vintage finds from US vintage hunter La Vee.",
+      "location": "199 Ermou street, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Grand Antiques & Vintage Market",
+    "start": "2026-03-07T10:00:00",
+    "end": "2026-03-07T17:00:00",
+    "url": "https://cyprus-mail.com/2026/02/22/spring-pop-up-bazaars-and-where-to-find-them",
+    "extendedProps": {
+      "type": "market",
+      "description": "Vintage market with antique items and furniture.",
+      "location": "New Strovolos Town Hall Square Gardens, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Scala Vinyl Fair III",
+    "start": "2026-04-18T00:00:00",
+    "url": "https://www.facebook.com/sunmooncreativespace",
+    "extendedProps": {
+      "type": "fair",
+      "description": "Vinyl records, cassettes, turntables and more.",
+      "location": "Sunmoon Creative Space, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Polemi Wild Tulip Festival",
+    "start": "2026-03-29T00:00:00",
+    "url": "https://cyprus-mail.com/2026/02/23/more-cyprus-festivals-to-look-forward-to",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Traditional village festival celebrating wild tulips.",
+      "location": "Polemi village",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "11th Cyprus International Tattoo Convention",
+    "start": "2026-04-03T00:00:00",
+    "end": "2026-04-05T23:59:59",
+    "url": "http://www.cyprustattooconvention.com/",
+    "extendedProps": {
+      "type": "convention",
+      "description": "Three-day event celebrating the art of tattoo.",
+      "location": "Lanitis Mill Complex, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "5th Femme Fest Cyprus",
+    "start": "2026-04-26T00:00:00",
+    "url": "http://www.femmefestcy.com/",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Festival for the promotion of gender equality. Simultaneous events in multiple cities.",
+      "location": "Nicosia, Limassol, Larnaca, Paphos, and Ayia Napa",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "CyHerbia Fairy Festival",
+    "start": "2026-05-01T09:00:00",
+    "end": "2026-05-01T17:00:00",
+    "url": "http://www.cyherbia.com/",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Annual spring festival with fairy-themed activities and nature-based games.",
+      "location": "CyHerbia Botanical Park & Labyrinth, Avgorou",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "9th Beer Phelstival",
+    "start": "2026-07-31T00:00:00",
+    "end": "2026-08-03T23:59:59",
+    "url": "http://www.beerphestival.com/",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Local beer festival.",
+      "location": "Pelendri village, Limassol district",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Each day is Valentine’s Day",
+    "start": "2026-02-14T00:00:00",
+    "url": "https://cyprus-mail.com/2026/02/13/quirky-valentines-day-events-this-weekend",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Love songs from around the world with Eleonora Roussou, Alexis Kasinos, Rodrigo Caceres and Rodos Panagiotou.",
+      "location": "Sarah’s Jazz & Blues Club, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Valentine’s Day Open Mic",
+    "start": "2026-02-14T20:00:00",
+    "url": "https://cyprus-mail.com/2026/02/13/quirky-valentines-day-events-this-weekend",
+    "extendedProps": {
+      "type": "open mic",
+      "description": "Open mic night for all performers and topics.",
+      "location": "Yfantourgeio TheWorkplace, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Valentine’s with Wine",
+    "start": "2026-02-14T18:00:00",
+    "end": "2026-02-15T00:00:00",
+    "url": "http://www.troodosobservatory.com/",
+    "extendedProps": {
+      "type": "wine tasting & stargazing",
+      "description": "Wine pairing with gourmet bites and stargazing.",
+      "location": "Troodos Observatory, Agridia village",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cinema Rendez-vous – Love on Screen Weekend",
+    "start": "2026-02-14T19:00:00",
+    "url": "https://starlitscreens.com/?view=program",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Three film screenings for singletons, friends, families and couples.",
+      "location": "Ayia Napa Marina",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Valentine’s Is Over – The Drag Show",
+    "start": "2026-02-15T19:00:00",
+    "url": "https://cyprus-mail.com/2026/02/13/quirky-valentines-day-events-this-weekend",
+    "extendedProps": {
+      "type": "show",
+      "description": "Drag show with Lynn Dynasty, Phnx, Mr Panaman and Alectrona.",
+      "location": "Patio Cocktail Bar, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ex-Libris & Occasional Prints",
+    "start": "2026-02-01T00:00:00",
+    "end": "2026-12-31T23:59:59",
+    "url": "http://www.printmaking.cy/",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "Group exhibition of etching, woodcut, zinccography and linocut print.",
+      "location": "Hambis Printmaking Museum, Platanisteia",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Lithography and Its Evolution",
+    "start": "2026-02-01T00:00:00",
+    "end": "2026-12-31T23:59:59",
+    "url": "http://www.printmaking.cy/",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "Group exhibition on the historical and artistic development of lithography.",
+      "location": "Hambis Printmaking Museum, Platanisteia",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Through Her Lens",
+    "start": "2026-03-04T17:00:00",
+    "url": "https://forms.office.com/e/gcKZJXNUVk",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "United Nations Peacekeeping photography exhibition, panel discussion and Q&A.",
+      "location": "Ledra Street Crossing, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Women’s Day Workshops",
+    "start": "2026-03-07T10:00:00",
+    "end": "2026-03-07T12:00:00",
+    "url": "https://forms.office.com/e/kNbUqXtJP3",
+    "extendedProps": {
+      "type": "workshop",
+      "description": "Olive wreath making, Ukrainian wood block printing and vision board creation.",
+      "location": "Yfantourgeio the Workplace, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Don’t Stop the Queen",
+    "start": "2026-02-20T21:00:00",
+    "url": "http://www.soldoutticketbox.com/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Hungary’s most acclaimed Queen tribute band makes its Cyprus debut.",
+      "location": "Savino Live, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Don’t Stop the Queen",
+    "start": "2026-02-21T21:00:00",
+    "url": "http://www.soldoutticketbox.com/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Hungary’s most acclaimed Queen tribute band makes its Cyprus debut.",
+      "location": "Music Hall, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Premiere 4",
+    "start": "2026-02-20T20:30:00",
+    "url": "http://www.cyso.org.cy/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Cyprus Symphony Orchestra concert.",
+      "location": "Municipal Theatre G. Lycourgos, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Tribute to Beth Hart",
+    "start": "2026-02-22T21:00:00",
+    "url": "https://t.me/livemusichall",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Blues rock night with acclaimed vocalist Natalia Borodulinaa and a blues band.",
+      "location": "Music Hall, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Openest MIC XXII",
+    "start": "2026-02-20T19:30:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "open mic",
+      "description": "Open mic night by KENO Publications.",
+      "location": "Yalla Collective Space & Café, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "George Kotsonis",
+    "start": "2026-02-20T19:30:00",
+    "url": "http://www.gloriagallery.com/",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "Painting, sculpture and mosaic exhibition by George Kotsonis.",
+      "location": "Gloria Gallery, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Create and Connect – Graffiti and Stencil Workshop",
+    "start": "2026-02-21T11:00:00",
+    "end": "2026-02-21T13:00:00",
+    "url": "https://forms.office.com/e/LxV29F3Dy2",
+    "extendedProps": {
+      "type": "workshop",
+      "description": "Led by an artist.",
+      "location": "Centre for Social Innovation-CSI office, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "CyFi Fest",
+    "start": "2026-02-20T00:00:00",
+    "url": "https://www.cyfifest.com/",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Three-day film festival focusing on science fiction, fantasy, horror, thrillers.",
+      "location": "Pantheon Cinema, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Paphos Carnival",
+    "start": "2026-02-21T15:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "carnival",
+      "description": "Annual parade with floats, marching bands and performers.",
+      "location": "Griva Digeni Avenue, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ammochostos Carnival Evening Parade",
+    "start": "2026-02-21T19:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "carnival",
+      "description": "Evening parade with floats, music and dancers.",
+      "location": "Griva DIgeni Avenue, Paralimni",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ammochostos Carnival Sunday Parade",
+    "start": "2026-02-22T14:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "carnival",
+      "description": "Official carnival parade of Paralimni.",
+      "location": "Central Square Paralimni",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ayia Napa Marina Carnival",
+    "start": "2026-02-21T14:00:00",
+    "end": "2026-02-21T17:30:00",
+    "url": "http://www.marinaayianapa.com/",
+    "extendedProps": {
+      "type": "carnival",
+      "description": "Carnival event with percussion bands, DJs, Brazilian dancers and more.",
+      "location": "Ayia Napa Marina",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Carnival Daydream Dance Party",
+    "start": "2026-02-21T17:00:00",
+    "end": "2026-02-21T23:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "party",
+      "description": "30+ carnival party.",
+      "location": "Sunmoon Creative Space, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Palaia Pineza Carnival Party Weekend",
+    "start": "2026-02-21T20:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "party",
+      "description": "Annual carnival street party weekend.",
+      "location": "Palaia Pineza Bar, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyberness Carnival Market",
+    "start": "2026-02-22T14:00:00",
+    "url": "http://www.kolla.com/",
+    "extendedProps": {
+      "type": "market",
+      "description": "Massive market with over 150 artists, street food, DJs, workshops.",
+      "location": "Kolla, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Limassol Carnival Parade",
+    "start": "2026-02-22T13:00:00",
+    "url": "http://www.limassol.org.cy/",
+    "extendedProps": {
+      "type": "carnival",
+      "description": "Cyprus’ biggest carnival parade with percussion bands, dancers and floats.",
+      "location": "Agiou Nikolaou roundabout, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Carnival Salsa Fiesta",
+    "start": "2026-02-22T17:00:00",
+    "end": "2026-02-23T00:00:00",
+    "url": "https://cyprus-mail.com/2026/02/19/whats-on-this-weekend-120",
+    "extendedProps": {
+      "type": "party",
+      "description": "Local band Macumba and Cuban vocalist Roberto Javier play Cuban carnival music.",
+      "location": "Mason Bar, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The Joy of Baroque",
+    "start": "2026-02-20T00:00:00",
+    "url": "http://www.cypruswinemuseum.com/",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Chamber music concert by the Cyprus Baroque Trio.",
+      "location": "Cyprus Wine Museum, Erimi village, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "CyFi Fest",
+    "start": "2026-02-20T00:00:00",
+    "end": "2026-02-22T23:59:59",
+    "url": "https://www.cyfifest.com/",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Three-day film festival focusing on science fiction, fantasy, horror, thrillers, and fan films.",
+      "location": "Pantheon Cinema, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Larnaca Talks: Larnaca and Environment",
+    "start": "2026-02-17T19:30:00",
+    "end": "2026-02-17T20:45:00",
+    "url": "https://www.facebook.com/LarnakaTalks",
+    "extendedProps": {
+      "type": "talk",
+      "description": "Discussion with Dr. Xenia Loizidou, Melpo Apostolidou and Natasa Ioannou.",
+      "location": "Larnaca House of Letters and Arts, Larnaca",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Mario Adrion: The Superior Comedy Tour",
+    "start": "2026-06-05T21:00:00",
+    "url": "https://www.more.com/cy-en/tickets/standupcomedy/mario-adrion-the-superior-comedy-tour-limassol/",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "European comedian on world tour presenting his Superior Comedy Tour.",
+      "location": "Kiklos Mousiki, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Common Ground Party",
+    "start": "2026-03-13T18:30:00",
+    "url": "https://cyprus-mail.com/2026/02/17/larnaka-2030-celebrates-its-win-with-free-party",
+    "extendedProps": {
+      "type": "party",
+      "description": "Larnaka 2030 party to celebrate its title of European Capital of Culture 2030.",
+      "location": "Zouhouri Square, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Love Me Tender: Film Screening in Larnaca",
+    "start": "2026-03-16T18:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/love-me-tender-film-screening-in-larnaca-11169",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the French drama 'Love Me Tender' with Greek subtitles, followed by a discussion.",
+      "location": "Georghios Lykourgos Municipal Theatre of Larnaka",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "XM Limassol Marathon 2026: Run the Seafront",
+    "start": "2026-03-21T07:00:00",
+    "end": "2026-03-22T10:00:00",
+    "url": "https://eventor.com.cy/events/limassol/xm-limassol-marathon-2026-run-the-seafront-11404",
+    "extendedProps": {
+      "type": "sports",
+      "description": "Experience the largest running event in Cyprus at the XM Limassol Marathon this March 2026, featuring marathon, half marathon, and city races.",
+      "location": "Limassol (Coastal area)",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Soulful Neoclassicism: Denis Stelmakh Live at Rialto Theatre",
+    "start": "2026-03-19T17:30:00",
+    "url": "https://eventor.com.cy/events/limassol/soulful-neoclassicism-denis-stelmakh-live-at-rialto-theatre-11460",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A neoclassical piano concert with Denis Stelmakh, featuring cinematic compositions of deep emotion, performed live at Rialto Theatre.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Limassol Tango Festival 2026 – Tango by the Sea",
+    "start": "2026-03-20T19:30:00",
+    "end": "2026-03-22T21:59:00",
+    "url": "https://eventor.com.cy/events/limassol/limassol-tango-festival-2026--tango-by-the-sea-10034",
+    "extendedProps": {
+      "type": "festival",
+      "description": "The Limassol Tango Festival returns with 'Tango by the Sea', a three-day celebration of sensual dance, deep musicality, and unforgettable moments.",
+      "location": "St Raphael Resort",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Pilates & Wellness Retreat: Mountain Escape in Agros",
+    "start": "2026-03-21T08:00:00",
+    "url": "https://eventor.com.cy/events/limassol/pilates--wellness-retreat-mountain-escape-in-agros-11470",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A refined Pilates & wellness retreat in the Agros Mountains, combining movement, nutrition, nature, and calm luxury.",
+      "location": "Agros Rodon Hotel",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ayia Napa Swim: Open Water Event at Nissi Beach",
+    "start": "2026-03-21T08:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/ayia-napa-swim-open-water-event-at-nissi-beach-11503",
+    "extendedProps": {
+      "type": "sports",
+      "description": "Open water swimming event at Nissi Beach, offering 2.5km or 5km distance options during the Ayia Napa Triathlon weekend.",
+      "location": "Nissi Beach, Ayia Napa",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Η Γιαγιά μου η Κυριακού: Δημοτικό Θέατρο Λευκωσίας",
+    "start": "2026-03-18T18:30:00",
+    "end": "2026-03-19T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B7-%CE%B3%CE%B9%CE%B1%CE%B3%CE%B9%CE%AC-%CE%BC%CE%BF%CF%85-%CE%B7-%CE%BA%CF%85%CF%81%CE%B9%CE%B1%CE%BA%CE%BF%CF%8D-%CE%B4%CE%B7%CE%BC%CE%BF%CF%84%CE%B9%CE%BA%CF%8C-%CE%B8%CE%AD%CE%B1%CF%84%CF%81%CE%BF-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1%CF%82-11544",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A documentary theatre performance telling the story of Kyriakou Pelagia, a master of Cypriot traditional song.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Street Dance & Breaking Championship in Nicosia",
+    "start": "2026-03-21T14:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/street-dance--breaking-championship-in-nicosia-11571",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A dance championship in Lakatameia featuring competitions in Street, Breaking, Hip Hop and Battles.",
+      "location": "GYMNASIO AGIOU IOANNOU TOU CHRYSOSTOMOU, LAKATAMIA",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Health & Beauty Forum 2026: Expo in Limassol",
+    "start": "2026-03-21T09:00:00",
+    "end": "2026-03-22T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/health--beauty-forum-2026-expo-in-limassol-11176",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "The largest event in Cyprus dedicated to health, beauty, and wellness, featuring over 100 participating companies and over 300 brands.",
+      "location": "Grand Resort, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Artisan & Farmers Market by Liven",
+    "start": "2026-03-15T08:00:00",
+    "end": "2026-03-15T13:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/artisan--farmers-market-by-liven-11539",
+    "extendedProps": {
+      "type": "food",
+      "description": "A new monthly community gathering focused on local food, crafts, and wellness activities.",
+      "location": "The Liven Cyprus Workshop, Kornos",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Agrafa Mountains: 5-Day Hiking Adventure 2026",
+    "start": "2026-05-06T04:30:00",
+    "end": "2026-05-10T23:59:59",
+    "url": "https://eventor.com.cy/events/nicosia/agrafa-mountains-5-day-hiking-adventure-2026-10398",
+    "extendedProps": {
+      "type": "adventure",
+      "description": "Join Vounisious for an unforgettable 5-day mountain adventure in the Agrafa Mountains, Greece. Discover one of Greece's last untouched hiking paradises.",
+      "location": "Agrafa Mountains, Greece",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Έλλη Κοκκίνου & Κωνσταντίνος Χριστοφόρου: Live εμφανίσεις",
+    "start": "2026-03-15T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%AD%CE%BB%CE%BB%CE%B7-%CE%BA%CE%BF%CE%BA%CE%BA%CE%AF%CE%BD%CE%BF%CF%85--%CE%BA%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82-%CF%87%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%86%CF%8C%CF%81%CE%BF%CF%85-live-%CE%B5%CE%BC%CF%86%CE%B1%CE%BD%CE%AF%CF%83%CE%B5%CE%B9%CF%82-11062",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Elli Kokkinou and Konstantinos Christoforou take the stage together for powerful Saturday nights filled with hits and high-energy performances.",
+      "location": "Notes Live Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Πεζοπορία Μονοπάτι Κούρδαλι, Σελλάδι & Λημέρια",
+    "start": "2026-03-15T07:15:00",
+    "end": "2026-03-15T10:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%AF%CE%B1-%CE%BC%CE%BF%CE%BD%CE%BF%CF%80%CE%AC%CF%84%CE%B9-%CE%BA%CE%BF%CF%8D%CF%81%CE%B4%CE%B1%CE%BB%CE%B9-%CF%83%CE%B5%CE%BB%CE%BB%CE%AC%CE%B4%CE%B9--%CE%BB%CE%B7%CE%BC%CE%AD%CF%81%CE%B9%CE%B1-11514",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "An 8km moderate difficulty hike starting in Kourdali, exploring historical EOKA hideouts and offering panoramic views towards Troodos.",
+      "location": "Panagia Chrysokourdaliotissa Church, Kourdali",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Cyprus Backyard Ultra 2026: Endurance Race in Oroklini",
+    "start": "2026-03-14T08:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/cyprus-backyard-ultra-2026-endurance-race-in-oroklini-11030",
+    "extendedProps": {
+      "type": "sports",
+      "description": "Cyprus's only Backyard Ultra endurance race, challenging runners to complete a 6.706-meter loop every hour until only one remains.",
+      "location": "Oroklini, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "AKATZI Run 2026: Community Road Races in Akaki",
+    "start": "2026-03-15T05:00:00",
+    "end": "2026-03-15T11:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/akatzi-run-2026-community-road-races-in-akaki-11403",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A community road running event in Akaki with 10 km, 5 km, and 1,000 m races, supporting children's charity.",
+      "location": "Akaki, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Afterpulse: Son of Son at Shaka Rooftop",
+    "start": "2026-03-14T18:00:00",
+    "url": "https://eventor.com.cy/events/limassol/afterpulse-son-of-son-at-shaka-rooftop-11536",
+    "extendedProps": {
+      "type": "parties",
+      "description": "An electronic music event featuring Son of Son alongside Joss, Rooney, and African Stevenson, focusing on techno sounds.",
+      "location": "Shaka Rooftop Venue, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Mother’s Day With Michael Buble Direct from the UK!",
+    "start": "2026-03-15T13:00:00",
+    "end": "2026-03-15T15:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/mothers-day-with-michael-buble-direct-from-the-uk-11353",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A Mother's Day celebration featuring a Michael Bublé tribute act direct from the UK, paired with Cyprus wine and chocolate tasting.",
+      "location": "Diamonds Show Bar, Paralimni",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "LIFESTYLE FASHION SHOW",
+    "start": "2026-03-14T16:30:00",
+    "end": "2026-03-14T19:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/lifestyle-fashion-show-11051",
+    "extendedProps": {
+      "type": "exhibition",
+      "description": "A vibrant fashion show in Protaras, bringing together style, creativity and nightlife energy.",
+      "location": "Diamonds Show Bar",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Λαϊκή Ρεμπέτικη Βραδιά: Άγιος Επιφάνιος",
+    "start": "2026-03-14T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BB%CE%B1%CF%8A%CE%BA%CE%AE-%CF%81%CE%B5%CE%BC%CF%80%CE%AD%CF%84%CE%B9%CE%BA%CE%B7-%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%AC-%CE%AC%CE%B3%CE%B9%CE%BF%CF%82-%CE%B5%CF%80%CE%B9%CF%86%CE%AC%CE%BD%CE%B9%CE%BF%CF%82-11547",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live rebetiko music night in Agios Epifanios featuring Peppos and Antros, dedicated to classic Greek folk songs.",
+      "location": "Agios Epifanios Event Hall",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Health & Olive Oil - Tasting and Conversation led by Dr. Tassos Kyriakides",
+    "start": "2026-03-15T09:00:00",
+    "end": "2026-03-15T11:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/health--olive-oil---tasting-and-conversation-led-by-dr-tassos-kyriakides-11263",
+    "extendedProps": {
+      "type": "food",
+      "description": "An olive oil tasting and discussion exploring extra virgin olive oils, Mediterranean cuisine, and the role of EVOO in health and wellbeing.",
+      "location": "Oi Myloi – The Mills, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "«Μιαν Βολάν…»: Θεατρικό Θρίλερ στη Λευκωσία",
+    "start": "2026-03-14T14:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BC%CE%B9%CE%B1%CE%BD-%CE%B2%CE%BF%CE%BB%CE%AC%CE%BD-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CF%8C-%CE%B8%CF%81%CE%AF%CE%BB%CE%B5%CF%81-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11310",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A folk thriller inspired by Cypriot tradition, performed in the Cypriot dialect with original medieval-style music.",
+      "location": "Theatre of the Russian Cultural Centre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "The Fall of the American Empire: Film Screening in Larnaca",
+    "start": "2026-04-27T20:30:00",
+    "end": "2026-04-27T23:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/the-fall-of-the-american-empire-film-screening-in-larnaca-11364",
+    "extendedProps": {
+      "type": "movie",
+      "description": "Sharp political satire by Denys Arcand reflecting on contemporary capitalism and social inequality. Screening in French with Greek subtitles.",
+      "location": "Georghios Lykourgos Municipal Theatre of Larnaka",
+      "district": "Larnaca",
+      "language": "fr"
+    }
+  },
+  {
+    "title": "Birimba Tournament at Tabló Game Board Cafe",
+    "start": "2026-03-15T09:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/birimba-tournament-at-tabl-game-board-cafe-11436",
+    "extendedProps": {
+      "type": "games",
+      "description": "A birimba card game tournament at Tabló Game Board Cafe, challenging players to put their skills to the test in a friendly environment.",
+      "location": "Tabló Game Board Cafe, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Safari & Hiking at Machairas",
+    "start": "2026-03-15T07:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/safari--hiking-at-machairas-11478",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "An adventurous six-hour safari and hiking activity exploring untouched canyons and the legendary Charkokolymbos area.",
+      "location": "Machairas",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "4th IDTA Cyprus Ballroom Branch: Two-Day Dance Competition",
+    "start": "2026-03-14T10:00:00",
+    "end": "2026-03-15T18:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/4th-idta-cyprus-ballroom-branch-two-day-dance-competition-10993",
+    "extendedProps": {
+      "type": "dance",
+      "description": "A major two-day dance competition bringing together talented dancers across various styles including Ballroom, Latin, Tango, and more.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Common Ground Party: Larnaca 2030 Celebration",
+    "start": "2026-03-13T18:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/common-ground-party-larnaca-2030-celebration-11551",
+    "extendedProps": {
+      "type": "parties",
+      "description": "An open celebration taking place in Zouhouri Square marking Larnaca's title as European Capital of Culture 2030 with live music.",
+      "location": "Zouhouri Square, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Dara Ó Briain – Re:Creation Live in Limassol",
+    "start": "2026-03-13T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/dara--briain--recreation-live-in-limassol-9833",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "The famous Irish comedian Dara Ó Briain brings his new tour 'Re:Creation' to Cyprus for a night of intelligent stand-up and witty observations.",
+      "location": "Monte Caputo, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Poker Cash Game Festival: Premium Cash Games at City of Dreams",
+    "start": "2026-03-12T14:00:00",
+    "end": "2026-03-14T01:00:00",
+    "url": "https://eventor.com.cy/events/limassol/poker-cash-game-festival-premium-cash-games-at-city-of-dreams-11424",
+    "extendedProps": {
+      "type": "games",
+      "description": "A three-day poker cash game festival featuring nonstop live tables, hourly promotions, and daily After Dark Draws.",
+      "location": "City of Dreams Mediterranean, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "«Εσύ Καθορίζεις τη Ζωή σου»: Παρουσίαση Βιβλίου στη Λευκωσία",
+    "start": "2026-03-13T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B5%CF%83%CF%8D-%CE%BA%CE%B1%CE%B8%CE%BF%CF%81%CE%AF%CE%B6%CE%B5%CE%B9%CF%82-%CF%84%CE%B7-%CE%B6%CF%89%CE%AE-%CF%83%CE%BF%CF%85-%CF%80%CE%B1%CF%81%CE%BF%CF%85%CF%83%CE%AF%CE%B1%CF%83%CE%B7-%CE%B2%CE%B9%CE%B2%CE%BB%CE%AF%CE%BF%CF%85-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11564",
+    "extendedProps": {
+      "type": "education",
+      "description": "Book presentation of \"You Define Your Life\" by psychologist Dr. Nikos Ilias, focusing on self-awareness, inner truth and personal responsibility.",
+      "location": "RIK Archive Events Hall, Aglantzia, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Cyprus Cubing League Final: WCA Event",
+    "start": "2026-03-14T07:00:00",
+    "end": "2026-03-14T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/cyprus-cubing-league-final-wca-event-11534",
+    "extendedProps": {
+      "type": "games",
+      "description": "Official WCA cubing competition marking the final event under the Cyprus Cubing League name. Limited to 80 competitors.",
+      "location": "Kolla, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Γένους Θρυλικού: Μουσικοθεατρική Παράσταση στη Λάρνακα",
+    "start": "2026-03-11T20:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CE%B3%CE%AD%CE%BD%CE%BF%CF%85%CF%82-%CE%B8%CF%81%CF%85%CE%BB%CE%B9%CE%BA%CE%BF%CF%8D-%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%BF%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1-11397",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A multidisciplinary music-theatre performance based on the book and album by Efstathia, highlighting stories of iconic women from the 19th and 20th centuries.",
+      "location": "Larnaca Municipal Theatre 'G. Lycurgos'",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Η Κοκκινοσκουφίτσα και τα Ζώα στη Λευκωσία",
+    "start": "2026-03-08T11:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B7-%CE%BA%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF%CF%83%CE%BA%CE%BF%CF%85%CF%86%CE%AF%CF%84%CF%83%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B6%CF%8E%CE%B1-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11574",
+    "extendedProps": {
+      "type": "family",
+      "description": "Family theatre performance of 'Little Red Riding Hood and the Animals of the Forest' designed for children and families.",
+      "location": "PASYDY Amphitheatre, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Η Κοκκινοσκουφίτσα και τα Ζώα στη Λευκωσία",
+    "start": "2026-03-08T16:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B7-%CE%BA%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF%CF%83%CE%BA%CE%BF%CF%85%CF%86%CE%AF%CF%84%CF%83%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B6%CF%8E%CE%B1-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11574",
+    "extendedProps": {
+      "type": "family",
+      "description": "Family theatre performance of 'Little Red Riding Hood and the Animals of the Forest' designed for children and families.",
+      "location": "PASYDY Amphitheatre, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Η Κοκκινοσκουφίτσα και τα Ζώα στη Λευκωσία",
+    "start": "2026-03-15T11:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B7-%CE%BA%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF%CF%83%CE%BA%CE%BF%CF%85%CF%86%CE%AF%CF%84%CF%83%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B6%CF%8E%CE%B1-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11574",
+    "extendedProps": {
+      "type": "family",
+      "description": "Family theatre performance of 'Little Red Riding Hood and the Animals of the Forest' designed for children and families.",
+      "location": "PASYDY Amphitheatre, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Η Κοκκινοσκουφίτσα και τα Ζώα στη Λευκωσία",
+    "start": "2026-03-15T16:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B7-%CE%BA%CE%BF%CE%BA%CE%BA%CE%B9%CE%BD%CE%BF%CF%83%CE%BA%CE%BF%CF%85%CF%86%CE%AF%CF%84%CF%83%CE%B1-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B6%CF%8E%CE%B1-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11574",
+    "extendedProps": {
+      "type": "family",
+      "description": "Family theatre performance of 'Little Red Riding Hood and the Animals of the Forest' designed for children and families.",
+      "location": "PASYDY Amphitheatre, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "ΑΝΤΙΠΑΛΟΙ ΓΙΑ ΚΑΛΟ: Η Ένωση (Morning Show)",
+    "start": "2026-05-10T11:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B1%CE%BD%CF%84%CE%B9%CF%80%CE%B1%CE%BB%CE%BF%CE%B9-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%BF-%CE%B7-%CE%AD%CE%BD%CF%89%CF%83%CE%B7-11542",
+    "extendedProps": {
+      "type": "show",
+      "description": "Live YouTube challenge show returning as a large-scale live production inspired by the Greek YouTube challenge that evolved into a film. Supporting ELEPAP.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "ΑΝΤΙΠΑΛΟΙ ΓΙΑ ΚΑΛΟ: Η Ένωση (Afternoon Show)",
+    "start": "2026-05-10T17:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B1%CE%BD%CF%84%CE%B9%CF%80%CE%B1%CE%BB%CE%BF%CE%B9-%CE%B3%CE%B9%CE%B1-%CE%BA%CE%B1%CE%BB%CE%BF-%CE%B7-%CE%AD%CE%BD%CF%89%CF%83%CE%B7-11542",
+    "extendedProps": {
+      "type": "show",
+      "description": "Live YouTube challenge show returning as a large-scale live production inspired by the Greek YouTube challenge that evolved into a film. Supporting ELEPAP.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Le Spectre de la Rose: Ballet Performance at Rialto Theatre",
+    "start": "2026-03-11T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/le-spectre-de-la-rose-ballet-performance-at-rialto-theatre-11459",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A timeless classical ballet performance inspired by the poetry of Théophile Gautier, featuring leading ballet soloists from Italy and Cyprus.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Nostalgia x Yfantourgeio: Women Only Day Party",
+    "start": "2026-03-08T15:00:00",
+    "end": "2026-03-08T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/nostalgia-x-yfantourgeio-women-only-day-party-11530",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A women-only day party filled with nostalgic hits from the 70s to 00s, celebrating Women's Day.",
+      "location": "Yfantourgeio The Workplace, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Παράθυρο Ανοιχτό: Ο Μάγος του Οζ στη Λάρνακα",
+    "start": "2026-03-08T16:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CF%80%CE%B1%CF%81%CE%AC%CE%B8%CF%85%CF%81%CE%BF-%CE%B1%CE%BD%CE%BF%CE%B9%CF%87%CF%84%CF%8C-%CE%BF-%CE%BC%CE%AC%CE%B3%CE%BF%CF%82-%CF%84%CE%BF%CF%85-%CE%BF%CE%B6-%CF%83%CF%84%CE%B7-%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1-11476",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A children's theatre performance bringing the beloved story of the Wizard of Oz to the stage in a vibrant production.",
+      "location": "Larnaca Municipal Theatre 'G. Lykourgos'",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Choices: A Cinematic Stage Experience at Pattihio",
+    "start": "2026-03-11T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/choices-a-cinematic-stage-experience-at-pattihio-10968",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A modern theatrical production blending theatre with cinematic art, music, dance and storytelling by one woman, exploring dreams and choices.",
+      "location": "Pattihio Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Aurora Gravel Rally Series 2026: 5-Day Gravel Race in Cyprus",
+    "start": "2026-03-09T06:00:00",
+    "end": "2026-03-13T22:55:00",
+    "url": "https://eventor.com.cy/events/larnaca/aurora-gravel-rally-series-2026-5-day-gravel-race-in-cyprus-11032",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A five-day gravel rally in Cyprus featuring stages, epic landscapes, and an all-inclusive adventure.",
+      "location": "Tochni",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "CHROMA by Her: Women Artists Exhibition in Limassol",
+    "start": "2026-03-08T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/chroma-by-her-women-artists-exhibition-in-limassol-11482",
+    "extendedProps": {
+      "type": "art",
+      "description": "A contemporary group exhibition featuring women artists living and working in Cyprus, exploring identity, femininity, migration, memory, place, and artistic diversity.",
+      "location": "20 Vasileos Georgiou A’ Avenue, 4047 Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "SCARABEO REUNION: The Midday Ritual at Zoneky",
+    "start": "2026-03-08T14:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/scarabeo-reunion-the-midday-ritual-at-zoneky-11540",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A vibrant Sunday daytime party featuring BABA REGGAE and PETTIS.N on the decks with MC STAN, alongside street food.",
+      "location": "Zonkey Bar, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-08T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-14T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-15T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-18T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-21T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-22T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-27T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Sotira Municipal Theatre",
+      "district": "Famagusta",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-03-29T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-04-20T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-04-21T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-10T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-13T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Markideio Theatre, Paphos",
+      "district": "Paphos",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-16T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-17T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-23T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Πατέρας: Θεατρική Παράσταση στην Κύπρο",
+    "start": "2026-05-24T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%80%CE%B1%CF%84%CE%AD%CF%81%CE%B1%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11477",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre production of 'The Father' by Florian Zeller, exploring memory, identity, and the fragile nature of human perception.",
+      "location": "Theatre Dentro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Deaf: Film Screening in Larnaca",
+    "start": "2026-03-09T20:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/deaf-film-screening-in-larnaca-11171",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the social drama 'Deaf' by Eva Libertad, exploring silence, communication, and social isolation. Followed by a 15-minute discussion.",
+      "location": "Larnaca Municipal Theatre (G. Lykourgos)",
+      "district": "Larnaca",
+      "language": "es"
+    }
+  },
+  {
+    "title": "Metal 2 The Masses Cyprus 2026 – Heat 1",
+    "start": "2026-03-08T19:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/metal-2-the-masses-cyprus-2026--heat-1-11559",
+    "extendedProps": {
+      "type": "music",
+      "description": "Heat 1 of the Metal 2 The Masses Cyprus 2026 competition, featuring five local metal bands competing for a spot in the final.",
+      "location": "Savino Live Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "PAREKLISSIA RUN 2026: Charity Race in Limassol",
+    "start": "2026-05-10T08:30:00",
+    "url": "https://eventor.com.cy/events/limassol/pareklissia-run-2026-charity-race-in-limassol-11246",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Charity running event in Parekklishia with 10km, 3km, and children's races, supporting children with heart conditions.",
+      "location": "Parekklishia Primary School, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ρίτα Αντωνοπούλου: Αφιέρωμα στον Θάνο Μικρούτσικο",
+    "start": "2026-03-09T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CF%81%CE%AF%CF%84%CE%B1-%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%BF%CF%80%CE%BF%CF%8D%CE%BB%CE%BF%CF%85-%CE%B1%CF%86%CE%B9%CE%AD%CF%81%CF%89%CE%BC%CE%B1-%CF%83%CF%84%CE%BF%CE%BD-%CE%B8%CE%AC%CE%BD%CE%BF-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B9%CE%BA%CE%BF-11473",
+    "extendedProps": {
+      "type": "music",
+      "description": "A musical tribute to composer Thanos Mikroutsikos performed by Rita Antonopoulou and the band Revans.",
+      "location": "Pattichio Municipal Theatre, Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ρίτα Αντωνοπούλου: Αφιέρωμα στον Θάνο Μικρούτσικο",
+    "start": "2026-03-10T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CF%81%CE%AF%CF%84%CE%B1-%CE%B1%CE%BD%CF%84%CF%89%CE%BD%CE%BF%CF%80%CE%BF%CF%8D%CE%BB%CE%BF%CF%85-%CE%B1%CF%86%CE%B9%CE%AD%CF%81%CF%89%CE%BC%CE%B1-%CF%83%CF%84%CE%BF%CE%BD-%CE%B8%CE%AC%CE%BD%CE%BF-%CE%BC%CE%B9%CE%BA%CF%81%CE%BF%CF%8D%CF%84%CF%83%CE%B9%CE%BA%CE%BF-11473",
+    "extendedProps": {
+      "type": "music",
+      "description": "A musical tribute to composer Thanos Mikroutsikos performed by Rita Antonopoulou and the band Revans.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "The Gospel According to St. Matthew: Screening in Nicosia",
+    "start": "2026-03-08T17:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-gospel-according-to-st-matthew-screening-in-nicosia-11360",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of Pier Paolo Pasolini's 'The Gospel According to St. Matthew' (1964) with English & Greek subtitles as part of Losing My Religion programme.",
+      "location": "Pantheon Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "it"
+    }
+  },
+  {
+    "title": "Millennium 00’s Party at 50’s Resto Bar",
+    "start": "2026-03-07T22:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/millennium-00s-party-at-50s-resto-bar-11562",
+    "extendedProps": {
+      "type": "parties",
+      "description": "Millennium 00's Party Vol.3 bringing back the biggest Greek and international hits of the 2000s with special guests Petros Sophocleides and Jimmy The Destroyer.",
+      "location": "50’s Resto Bar, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "TUI Cyprus Marathon: Coastal Races in Paphos - 5km Sunset Run",
+    "start": "2026-03-07T16:00:00",
+    "url": "https://eventor.com.cy/events/paphos/tui-cyprus-marathon-coastal-races-in-paphos-11402",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A scenic 5km sunset run along the Mediterranean coast in Paphos.",
+      "location": "Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "TUI Cyprus Marathon: Coastal Races in Paphos - Marathon",
+    "start": "2026-03-08T07:00:00",
+    "url": "https://eventor.com.cy/events/paphos/tui-cyprus-marathon-coastal-races-in-paphos-11402",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A scenic marathon race along the Mediterranean coast in Paphos.",
+      "location": "Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "TUI Cyprus Marathon: Coastal Races in Paphos - Half Marathon",
+    "start": "2026-03-08T08:00:00",
+    "url": "https://eventor.com.cy/events/paphos/tui-cyprus-marathon-coastal-races-in-paphos-11402",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A scenic half marathon race along the Mediterranean coast in Paphos.",
+      "location": "Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "TUI Cyprus Marathon: Coastal Races in Paphos - 10km Road Race",
+    "start": "2026-03-08T08:20:00",
+    "url": "https://eventor.com.cy/events/paphos/tui-cyprus-marathon-coastal-races-in-paphos-11402",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A scenic 10km road race along the Mediterranean coast in Paphos.",
+      "location": "Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Machairas Forest Hike with Vounisious",
+    "start": "2026-03-08T09:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/machairas-forest-hike-with-vounisious-11451",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A guided hike in Machairas Forest with Vounisious, featuring blossomed almond trees and forest trails. Level: Easy-Intermediate (12 km).",
+      "location": "Machairas Forest (Meeting point: Kapedes Village)",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-06T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-07T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-08T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-10T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-11T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "The Secret Agent: Political Thriller at Rialto Theatre",
+    "start": "2026-03-12T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-secret-agent-political-thriller-at-rialto-theatre-11462",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the award-winning political thriller 'The Secret Agent', directed by Kleber Mendonça Filho and starring Wagner Moura.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "pt"
+    }
+  },
+  {
+    "title": "Busline: Hard Techno Night in Nicosia",
+    "start": "2026-03-07T21:00:00",
+    "end": "2026-03-08T06:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/busline-hard-techno-night-in-nicosia-11527",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A night dedicated to unrelenting hard techno sound at Ktima Camelot, presented by Busline CY.",
+      "location": "Ktima Camelot, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "ISSA Sailing Courses: Skipper & Yacht Crew Training in Larnaca",
+    "start": "2026-03-08T08:15:00",
+    "end": "2026-05-14T19:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/issa-sailing-courses-skipper--yacht-crew-training-in-larnaca-11033",
+    "extendedProps": {
+      "type": "sports",
+      "description": "ISSA-certified sailing courses leading to Offshore Skipper, Inshore Skipper, and Yacht Crew qualifications. Includes theory and practical training.",
+      "location": "Larnaca Marina / Nicosia (Theory)",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Thomas Anders Live: Modern Talking Hits at Monte Caputo",
+    "start": "2026-03-06T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/thomas-anders-live-modern-talking-hits-at-monte-caputo-11067",
+    "extendedProps": {
+      "type": "music",
+      "description": "Thomas Anders, the iconic voice of Modern Talking, performs a festive live concert featuring timeless hits.",
+      "location": "Monte Caputo Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Aladdin: Dance Show in Nicosia 2026",
+    "start": "2026-03-07T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/aladdin-dance-show-in-nicosia-2026-11552",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A spectacular dance and theatre production of 'Aladdin' presented by Royale Dance Education Center, supporting local charities.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Aladdin: Dance Show in Nicosia 2026",
+    "start": "2026-03-08T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/aladdin-dance-show-in-nicosia-2026-11552",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A spectacular dance and theatre production of 'Aladdin' presented by Royale Dance Education Center, supporting local charities.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "RSCy2026: Geoinformation & Earth Observation Forum",
+    "start": "2026-04-27T05:00:00",
+    "end": "2026-04-29T15:00:00",
+    "url": "https://eventor.com.cy/events/paphos/rscy2026-geoinformation--earth-observation-forum-11362",
+    "extendedProps": {
+      "type": "summit",
+      "description": "International conference providing a platform for researchers and professionals in remote sensing, geoinformation and environmental applications.",
+      "location": "Paphos, Cyprus",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Satori Live: Immersive Show at ETKO",
+    "start": "2026-03-07T18:00:00",
+    "url": "https://eventor.com.cy/events/limassol/satori-live-immersive-show-at-etko-11425",
+    "extendedProps": {
+      "type": "parties",
+      "description": "An immersive electronic performance by Satori (live) featuring live improvisation and a full supporting lineup.",
+      "location": "ETKO, Organic Stage",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Women in Padel: International Women’s Day at Padeland",
+    "start": "2026-03-08T06:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/women-in-padel-international-womens-day-at-padeland-11381",
+    "extendedProps": {
+      "type": "sports",
+      "description": "International Women's Day charity padel event at Padeland. All-day event featuring tournaments, masterclasses, and music in support of breast cancer awareness.",
+      "location": "Padeland Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Discovery Hiking Tour in Pedoulas Village",
+    "start": "2026-03-08T09:00:00",
+    "end": "2026-03-08T16:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/discovery-hiking-tour-in-pedoulas-village-11566",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A challenging 14 km circular guided hiking tour in Pedoulas Village by Cyprus Nature Hikes.",
+      "location": "Pedoulas, Cyprus",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Oasis Six Piece Tribute Band: Tribute Concert at Diamond Show Bar",
+    "start": "2026-03-07T21:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/oasis-six-piece-tribute-band-tribute-concert-at-diamond-show-bar-11307",
+    "extendedProps": {
+      "type": "music",
+      "description": "A high-energy Oasis tribute concert featuring a full six-piece lineup recreating Britpop anthems.",
+      "location": "Diamonds Show Bar, Paralimni",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "PAN BAŁKANICA & OPA HEY ORKESTAR",
+    "start": "2026-03-07T20:00:00",
+    "end": "2026-03-07T23:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/pan-bakanica--opa-hey-orkestar-11508",
+    "extendedProps": {
+      "type": "music",
+      "description": "A Women's Day concert featuring PAN BAŁKANICA & OPA HEY ORKESTAR live at Deep Club.",
+      "location": "Club Deep, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Μουσικοθεατρική Παράσταση «Ποντικοπεριπέτειες»",
+    "start": "2026-03-01T16:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%BF%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%80%CE%BF%CE%BD%CF%84%CE%B9%CE%BA%CE%BF%CF%80%CE%B5%CF%81%CE%B9%CF%80%CE%AD%CF%84%CE%B5%CE%B9%CE%B5%CF%82-%CE%BF%CE%B9%CE%BA%CE%BF%CE%B3%CE%B5%CE%BD%CE%B5%CE%B9%CE%B1%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11463",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Pontikoperipeteies is a musical theatre performance for children and families introducing audiences to classical music.",
+      "location": "Melina Mercouri Cultural Centre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Dr. Jordan B. Peterson: An Evening to Transform Your Life",
+    "start": "2026-03-06T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/dr-jordan-b-peterson-an-evening-to-transform-your-life-9872",
+    "extendedProps": {
+      "type": "education",
+      "description": "An exclusive one-night-only talk by clinically renowned psychologist Dr. Jordan B. Peterson.",
+      "location": "Eleftheria Indoor Hall, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Beauty and the Beast: Dance Performance in Nicosia",
+    "start": "2026-03-01T18:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/beauty-and-the-beast-dance-performance-in-nicosia-11474",
+    "extendedProps": {
+      "type": "dance",
+      "description": "A family-friendly dance performance inspired by the timeless story of Beauty and the Beast.",
+      "location": "Strovolos Municipal Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Christy: Film Screening in Larnaca",
+    "start": "2026-03-02T20:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/christy-film-screening-in-larnaca-11174",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Screening of the social drama 'Christy' exploring identity and youth, followed by a discussion.",
+      "location": "Georghios Lykourgos Municipal Theatre of Larnaka",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sip & Paint: Women’s Day Edition Paralimni",
+    "start": "2026-03-05T18:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/sip--paint-womens-day-edition-paralimni-11550",
+    "extendedProps": {
+      "type": "art",
+      "description": "A relaxed Sip & Paint evening for Women's Day featuring canvas painting, wine, and a cheese platter.",
+      "location": "Amarilino Coffee n’ More, Paralimni",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Pafos Triathlon: Three Sports, One Legendary Race",
+    "start": "2026-05-03T07:00:00",
+    "url": "https://eventor.com.cy/events/paphos/pafos-triathlon-three-sports-one-legendary-race-11409",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A legendary triathlon race with Olympic and Sprint distances along crystal-clear seas and flat coastal routes in Paphos.",
+      "location": "Mpania / Alykes Beach, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Karaoke Party: Sing-Along Night in Limassol",
+    "start": "2026-03-01T19:00:00",
+    "url": "https://eventor.com.cy/events/limassol/karaoke-party-sing-along-night-in-limassol-11491",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A fun-filled karaoke party with food, drinks, and sing-along hits.",
+      "location": "The Full Monty Pub, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Beach Clean-up: SODAP Beach Paphos 2026",
+    "start": "2026-03-06T15:00:00",
+    "url": "https://eventor.com.cy/events/paphos/beach-clean-up-sodap-beach-paphos-2026-11558",
+    "extendedProps": {
+      "type": "community",
+      "description": "A beach clean-up event at SODAP Plastic Free Beach to protect Cyprus coastline.",
+      "location": "SODAP Plastic Free Beach, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "A Man Escaped: Sunday Screening in Nicosia",
+    "start": "2026-03-01T17:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/a-man-escaped-sunday-screening-in-nicosia-11359",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "Sunday screening of Robert Bresson's 'A Man Escaped' (1956) at Pantheon Theatre.",
+      "location": "Pantheon Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Κωνσταντίνος Ιωάννου: Stand-Up στη Λεμεσό",
+    "start": "2026-03-05T20:30:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%BA%CF%89%CE%BD%CF%83%CF%84%CE%B1%CE%BD%CF%84%CE%AF%CE%BD%CE%BF%CF%82-%CE%B9%CF%89%CE%AC%CE%BD%CE%BD%CE%BF%CF%85-stand-up-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11533",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "Stand-up comedy performance by Konstantinos Ioannou with his show 'Ola Osa Den Leme'.",
+      "location": "Kafenio Xouzouri Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Teamwork & Teambuilding: Professional Masterclass in Limassol",
+    "start": "2026-03-02T06:00:00",
+    "end": "2026-03-06T10:30:00",
+    "url": "https://eventor.com.cy/events/limassol/teamwork--teambuilding-professional-masterclass-in-limassol-11034",
+    "extendedProps": {
+      "type": "education",
+      "description": "A professional teamwork and teambuilding masterclass for effectively working in modern organizations.",
+      "location": "Germasogeia, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Three-Day Hiking Trip: Akamas & Palaipafos from Nicosia",
+    "start": "2026-03-06T13:00:00",
+    "end": "2026-03-08T20:00:00",
+    "url": "https://eventor.com.cy/events/paphos/three-day-hiking-trip-akamas--palaipafos-from-nicosia-11244",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A three-day hiking and cultural excursion combining nature, history, and group activities.",
+      "location": "Latchi and Palaipafos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Γυναίκα Εγώ: Θεατρική Παράσταση στη Λάρνακα",
+    "start": "2026-03-01T20:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CE%B3%CF%85%CE%BD%CE%B1%CE%AF%CE%BA%CE%B1-%CE%B5%CE%B3%CF%8E-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1-11475",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A multidisciplinary contemporary theatre performance dedicated to women's strength and creativity.",
+      "location": "Larnaca Municipal Theatre 'G. Lykourgos'",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Above The Clouds: Utopia Festival in Troodos",
+    "start": "2026-03-01T12:00:00",
+    "url": "https://eventor.com.cy/events/limassol/above-the-clouds-utopia-festival-in-troodos-11517",
+    "extendedProps": {
+      "type": "festivals",
+      "description": "An open-air immersive festival at the North Face Ski Slope in Troodos featuring Utopia's 'Above The Clouds'.",
+      "location": "North Face Ski Slope, Troodos",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Fine Wine Vol.2: New Rose in Town Nicosia",
+    "start": "2026-03-01T19:00:00",
+    "end": "2026-03-01T22:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/fine-wine-vol2-new-rose-in-town-nicosia-11548",
+    "extendedProps": {
+      "type": "food",
+      "description": "A wine tasting event presenting New Rose in Town with curated rose wines and Japanese bites.",
+      "location": "Kamaralli Hall, Old Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Spring Hike with Vounisious: Almond Blossoms Trail",
+    "start": "2026-03-01T09:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/spring-hike-with-vounisious-almond-blossoms-trail-11453",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "Guided spring hike on the Almond Blossoms Trail with scenic viewpoints and Chalazis hill.",
+      "location": "Agios Epiphanios Church, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Konstantineios Love Run: Charity Road Race in Peristerona",
+    "start": "2026-05-02T05:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/konstantineios-love-run-charity-road-race-in-peristerona-11405",
+    "extendedProps": {
+      "type": "sport",
+      "description": "This charity running event in Peristerona honors the memory of Konstantinos Chatzimichael and continues his legacy of volunteering and social contribution.",
+      "location": "Peristerona, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "ΠΕΖΟΠΟΡΙΑ ΦΙΚΑΡΔΟΥ – ΛΑΖΑΝΙΑΣ – ΙΕΡΑ ΜΟΝΗΣ ΜΑΧΑΙΡΑ",
+    "start": "2026-03-01T09:15:00",
+    "end": "2026-03-01T13:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%80%CE%B5%CE%B6%CE%BF%CF%80%CE%BF%CF%81%CE%B9%CE%B1-%CF%86%CE%B9%CE%BA%CE%B1%CF%81%CE%B4%CE%BF%CF%85--%CE%BB%CE%B1%CE%B6%CE%B1%CE%BD%CE%B9%CE%B1%CF%82--%CE%B9%CE%B5%CF%81%CE%B1-%CE%BC%CE%BF%CE%BD%CE%B7%CF%82-%CE%BC%CE%B1%CF%87%CE%B1%CE%B9%CF%81%CE%B1-11471",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "Guided hiking route combining cultural heritage and outdoor exploration from Fikardou to Machairas Monastery.",
+      "location": "Fikardou village centre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Thrift Therapy: Vintage Trunk Show in Larnaca",
+    "start": "2026-03-01T10:00:00",
+    "end": "2026-03-01T18:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/thrift-therapy-vintage-trunk-show-in-larnaca-11479",
+    "extendedProps": {
+      "type": "art",
+      "description": "Thrift Therapy grand opening and vintage trunk show with luxury vintage and unique finds.",
+      "location": "Ermou Street 119, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Hiking and Yoga Retreat: Nature Experience in Foinikaria",
+    "start": "2026-03-01T09:30:00",
+    "url": "https://eventor.com.cy/events/limassol/hiking-and-yoga-retreat-nature-experience-in-foinikaria-11489",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A full-day wellness experience in nature combining a guided hike, yoga stretching, and vegan meal.",
+      "location": "Paradiso Di Eros, Foinikaria",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Second Life Wardrobe Gala: Pop-Up Bazaar in Nicosia",
+    "start": "2026-02-28T21:00:00",
+    "end": "2026-03-01T23:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/second-life-wardrobe-gala-pop-up-bazaar-in-nicosia-11260",
+    "extendedProps": {
+      "type": "art",
+      "description": "A two-day shopping party featuring curated second-hand fashion, music, food, and drinks.",
+      "location": "Yfantourgeio The Workplace, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Topclass27 Presents Dopamine II at Dracula Club",
+    "start": "2026-02-28T22:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/topclass27-presents-dopamine-ii-at-dracula-club-11501",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A techno night with DJ Ntinos presenting Dopamine II at Dracula Club.",
+      "location": "Dracula Club Larnaka",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Cyprus Drum & Bass Nights: Live DJs in Limassol",
+    "start": "2026-02-28T20:00:00",
+    "end": "2026-03-01T02:00:00",
+    "url": "https://eventor.com.cy/events/limassol/cyprus-drum--bass-nights-live-djs-in-limassol-11269",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A high-energy drum & bass club night featuring local DJs Amorius, Hamsta, CyFunk and Youngzy.",
+      "location": "Drunk Shooters, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sunday League Tournament #2: Limassol March 2026",
+    "start": "2026-03-01T07:00:00",
+    "url": "https://eventor.com.cy/events/limassol/sunday-league-tournament-2-limassol-march-2026-11546",
+    "extendedProps": {
+      "type": "sports",
+      "description": "An exciting volleyball tournament bringing competitive teams together.",
+      "location": "Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Klirou Atovrisi 2026: Trail & Road Race in Klirou",
+    "start": "2026-03-01T07:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/klirou-atovrisi-2026-trail--road-race-in-klirou-11297",
+    "extendedProps": {
+      "type": "sports",
+      "description": "Trail, cross country, and road races in a community-focused sporting celebration.",
+      "location": "Klirou Community Council, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Το Ασανσέρ: Θεατρική Παράσταση στη Λάρνακα",
+    "start": "2026-02-28T19:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CF%84%CE%BF-%CE%B1%CF%83%CE%B1%CE%BD%CF%83%CE%AD%CF%81-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1-11483",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A contemporary theatre performance by Iglika Peeva, exploring power and control.",
+      "location": "Monica Meleki Theatre Workshop, Larnaca",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Ψεύτης Βοσκός: Διαδραστικό Παραμύθι για Παιδιά",
+    "start": "2026-02-28T14:00:00",
+    "end": "2026-02-28T16:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BF-%CF%88%CE%B5%CF%8D%CF%84%CE%B7%CF%82-%CE%B2%CE%BF%CF%83%CE%BA%CF%8C%CF%82-%CE%B4%CE%B9%CE%B1%CE%B4%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8C-%CF%80%CE%B1%CF%81%CE%B1%CE%BC%CF%8D%CE%B8%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%AC-11278",
+    "extendedProps": {
+      "type": "family",
+      "description": "An interactive musical theatre event for children aged 4-8 and their parents, based on The Lying Shepherd.",
+      "location": "Αίθουσα Συναυλιών Σχολής Αγίου Μελετίου 22, Αρχάγγελος, 2331",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Sting 3.0 World Tour: Live in Limassol Cyprus 2026",
+    "start": "2026-08-04T20:30:00",
+    "url": "https://eventor.com.cy/events/limassol/sting-30-world-tour-live-in-limassol-cyprus-2026-10703",
+    "extendedProps": {
+      "type": "concert",
+      "description": "The legendary Sting returns to Cyprus after 20 years with his highly anticipated STING 3.0 World Tour, for one exclusive night at Tsirio Stadium.",
+      "location": "Tsirio Stadium, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ο Αόρατος Επισκέπτης: Θεατρικό Μυστήριο στην Κύπρο",
+    "start": "2026-02-28T16:00:00",
+    "end": "2026-03-05T21:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%BF-%CE%B1%CF%8C%CF%81%CE%B1%CF%84%CE%BF%CF%82-%CE%B5%CF%80%CE%B9%CF%83%CE%BA%CE%AD%CF%80%CF%84%CE%B7%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CF%8C-%CE%BC%CF%85%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11280",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "The stage adaptation of Oriol Paulo's acclaimed mystery thriller, 'The Invisible Guest'.",
+      "location": "Pattihio Municipal Theatre, Limassol & Nicosia Municipal Theatre",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "La Caleta: House & Techno Night in Limassol",
+    "start": "2026-02-28T18:00:00",
+    "end": "2026-03-01T01:00:00",
+    "url": "https://eventor.com.cy/events/limassol/la-caleta-house--techno-night-in-limassol-11526",
+    "extendedProps": {
+      "type": "parties",
+      "description": "A House & Techno night curated by Element X with live violin and melodic techno sets.",
+      "location": "La Caleta – The Icon, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Έκθεση Baby Show 2026: Μωρό & Βάπτιση στη Λευκωσία",
+    "start": "2026-02-28T15:00:00",
+    "end": "2026-03-01T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%AD%CE%BA%CE%B8%CE%B5%CF%83%CE%B7-baby-show-2026-%CE%BC%CF%89%CF%81%CF%8C--%CE%B2%CE%AC%CF%80%CF%84%CE%B9%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11370",
+    "extendedProps": {
+      "type": "family",
+      "description": "A two-day exhibition dedicated to babies and baptisms with over 45 exhibitors.",
+      "location": "Pavilion Hall Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Όραση & Μάθηση: Σεμινάριο ειδικής αγωγής στη Λευκωσία",
+    "start": "2026-02-28T09:30:00",
+    "end": "2026-03-01T15:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%8C%CF%81%CE%B1%CF%83%CE%B7--%CE%BC%CE%AC%CE%B8%CE%B7%CF%83%CE%B7-%CF%83%CE%B5%CE%BC%CE%B9%CE%BD%CE%AC%CF%81%CE%B9%CE%BF-%CE%B5%CE%B9%CE%B4%CE%B9%CE%BA%CE%AE%CF%82-%CE%B1%CE%B3%CF%89%CE%B3%CE%AE%CF%82-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11118",
+    "extendedProps": {
+      "type": "education",
+      "description": "An in-person seminar offering practical insight into the connection between vision and learning for special education practitioners.",
+      "location": "Semeli Hotel, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "30th Anniversary Concert: Dance & Tradition in Nicosia",
+    "start": "2026-02-28T19:00:00",
+    "end": "2026-02-28T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/30th-anniversary-concert-dance--tradition-in-nicosia-11137",
+    "extendedProps": {
+      "type": "dance",
+      "description": "An energetic stage production celebrating 30 years of the National Dance Ensemble Romiosini.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Live Landscapes: Creative Workshop for Kids in Nicosia",
+    "start": "2026-02-28T11:00:00",
+    "end": "2026-02-28T12:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/live-landscapes-creative-workshop-for-kids-in-nicosia-11468",
+    "extendedProps": {
+      "type": "family",
+      "description": "A creative workshop for children transforming artworks into playful theatrical scenes.",
+      "location": "A. G. Leventis Gallery, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Intercultural 3x3 Street Basketball Vol. 5 in Strovolos",
+    "start": "2026-02-28T11:00:00",
+    "end": "2026-02-28T17:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/intercultural-3x3-street-basketball-vol-5-in-strovolos-11504",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A FIBA-endorsed 3x3 street basketball tournament promoting diversity and inclusion.",
+      "location": "Strovolos Municipal Sports Center",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sustainable Bazaar at New Division: Vintage Finds",
+    "start": "2026-02-28T10:00:00",
+    "end": "2026-02-28T18:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/sustainable-bazaar-at-new-division-vintage-finds-11444",
+    "extendedProps": {
+      "type": "art",
+      "description": "A vintage and second-hand fashion market focused on sustainable shopping hosted by ARIAM.",
+      "location": "New Division, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ελλοπία: Ζωντανά στη Λευκωσία",
+    "start": "2026-02-27T21:45:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B5%CE%BB%CE%BB%CE%BF%CF%80%CE%AF%CE%B1-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AC-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11432",
+    "extendedProps": {
+      "type": "music",
+      "description": "Live performance by Ellopia featuring a mix of modern and Greek musical elements.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Σάββατο στο Μουσείο: Μάντεψε Ποιος;",
+    "start": "2026-02-28T11:00:00",
+    "end": "2026-02-28T12:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%83%CE%AC%CE%B2%CE%B2%CE%B1%CF%84%CE%BF-%CF%83%CF%84%CE%BF-%CE%BC%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF-%CE%BC%CE%AC%CE%BD%CF%84%CE%B5%CF%88%CE%B5-%CF%80%CE%BF%CE%B9%CE%BF%CF%82-11323",
+    "extendedProps": {
+      "type": "family",
+      "description": "A children's educational programme transforming 'Guess Who?' into a museum-based discovery experience.",
+      "location": "Ermou Street 285, 1017 Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Massimo Giordano Live in Cyprus: Ancient Kourion Concert",
+    "start": "2026-09-19T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/massimo-giordano-live-in-cyprus-ancient-kourion-concert-10562",
+    "extendedProps": {
+      "type": "concert",
+      "description": "An unforgettable open-air concert under the stars by world-renowned Italian tenor Massimo Giordano, featuring beloved opera arias, romantic duets, and Neapolitan songs.",
+      "location": "Ancient Kourion Theatre, Cyprus",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Εκτός Ελέγχου: Κωμωδία στο Σατιρικό Θέατρο",
+    "start": "2026-02-27T20:00:00",
+    "end": "2026-03-14T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B5%CE%BA%CF%84%CF%8C%CF%82-%CE%B5%CE%BB%CE%AD%CE%B3%CF%87%CE%BF%CF%85-%CE%BA%CF%89%CE%BC%CF%89%CE%B4%CE%AF%CE%B1-%CF%83%CF%84%CE%BF-%CF%83%CE%B1%CF%84%CE%B9%CF%81%CE%B9%CE%BA%CF%8C-%CE%B8%CE%AD%CE%B1%CF%84%CF%81%CE%BF-11494",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "The award-winning farce 'Out of Control' by Ray Cooney directed by Marianna Kafkaridou and Vasilis Michail.",
+      "location": "Satiriko Theatro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "ΜΠΛΕ Live στο Aelia Wellness Retreat",
+    "start": "2026-02-27T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BC%CF%80%CE%BB%CE%B5-live-%CF%83%CF%84%CE%BF-aelia-wellness-retreat-11302",
+    "extendedProps": {
+      "type": "music",
+      "description": "Live music concert by the Greek band ΜΠΛΕ at Aelia Wellness Retreat.",
+      "location": "Aelia Wellness Retreat, 150 Grigoriou Afxentiou, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Πριν την Αποχώρηση: Πολιτικό Δράμα στο Σατιρικό Θέατρο",
+    "start": "2026-02-25T20:30:00",
+    "end": "2026-03-29T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%80%CF%81%CE%B9%CE%BD-%CF%84%CE%B7%CE%BD-%CE%B1%CF%80%CE%BF%CF%87%CF%8E%CF%81%CE%B7%CF%83%CE%B7-%CF%80%CE%BF%CE%BB%CE%B9%CF%84%CE%B9%CE%BA%CF%8C-%CE%B4%CF%81%CE%AC%CE%BC%CE%B1-%CF%83%CF%84%CE%BF-%CF%83%CE%B1%CF%84%CE%B9%CF%81%CE%B9%CE%BA%CF%8C-%CE%B8%CE%AD%CE%B1%CF%84%CF%81%CE%BF-11495",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Political drama 'Before Retirement' by Thomas Bernhard directed by Aimilios Charalambidis.",
+      "location": "Satiriko Theatro, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Τούλα: Θεατρικό Πορτραίτο στη Λευκωσία1",
+    "start": "2026-02-25T20:30:00",
+    "end": "2026-02-28T21:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%84%CE%BF%CF%8D%CE%BB%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CF%8C-%CF%80%CE%BF%CF%81%CF%84%CF%81%CE%B1%CE%AF%CF%84%CE%BF-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B11-11440",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A theatrical portrait of acclaimed Cypriot visual artist Toula Liasi, based on real interviews.",
+      "location": "ARTos House, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "InterEuropa Ballet Cyprus 2026: International Dance Competition in Paphos",
+    "start": "2026-02-27T07:00:00",
+    "end": "2026-03-01T16:00:00",
+    "url": "https://eventor.com.cy/events/paphos/intereuropa-ballet-cyprus-2026-international-dance-competition-in-paphos-10634",
+    "extendedProps": {
+      "type": "dance",
+      "description": "International dance competition bringing together talented dancers from around the world.",
+      "location": "Markideio Theatre, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Time Ride on Blues: Live Classic Rock at Sarah’s",
+    "start": "2026-02-27T21:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/time-ride-on-blues-live-classic-rock-at-sarahs-11443",
+    "extendedProps": {
+      "type": "music",
+      "description": "Live classic rock, southern rock, and blues covers by Time Ride on Blues.",
+      "location": "Sarah's Jazz Club, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Τούτες Ένει: Live Μουσική Βραδιά στη Λευκωσία",
+    "start": "2026-02-26T21:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%84%CE%BF%CF%8D%CF%84%CE%B5%CF%82-%CE%AD%CE%BD%CE%B5%CE%B9-live-%CE%BC%CE%BF%CF%85%CF%83%CE%B9%CE%BA%CE%AE-%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%AC-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11371",
+    "extendedProps": {
+      "type": "music",
+      "description": "Live music night featuring strong female voices and a vibrant band atmosphere.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Unplugged Weekend Retreat: Phone-Free Reset in Limassol",
+    "start": "2026-02-27T16:00:00",
+    "end": "2026-03-01T11:00:00",
+    "url": "https://eventor.com.cy/events/limassol/unplugged-weekend-retreat-phone-free-reset-in-limassol-11352",
+    "extendedProps": {
+      "type": "education",
+      "description": "A phone-free wellness retreat in the Troodos mountains designed as a gentle reset.",
+      "location": "Pine View Boutique Hotel, Troodos",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Δωδέκατη Νύχτα: Κωμωδία του Σαίξπηρ στη Λευκωσία",
+    "start": "2026-02-06T20:00:00",
+    "end": "2026-04-03T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B4%CF%89%CE%B4%CE%AD%CE%BA%CE%B1%CF%84%CE%B7-%CE%BD%CF%8D%CF%87%CF%84%CE%B1-%CE%BA%CF%89%CE%BC%CF%89%CE%B4%CE%AF%CE%B1-%CF%84%CE%BF%CF%85-%CF%83%CE%B1%CE%AF%CE%BE%CF%80%CE%B7%CF%81-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11438",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "William Shakespeare's 'Twelfth Night' staged by the Cyprus Theatre Organisation, touring multiple cities.",
+      "location": "THOC Main Stage, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Η Στέλλα με τα Κόκκινα Γάντια: Θεατρική Παράσταση στη Λεμεσό",
+    "start": "2026-02-25T20:00:00",
+    "end": "2026-02-25T21:30:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%B7-%CF%83%CF%84%CE%AD%CE%BB%CE%BB%CE%B1-%CE%BC%CE%B5-%CF%84%CE%B1-%CE%BA%CF%8C%CE%BA%CE%BA%CE%B9%CE%BD%CE%B1-%CE%B3%CE%AC%CE%BD%CF%84%CE%B9%CE%B1-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11458",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Timeless social drama by Iakovos Kambanellis, staged by Agia Fylaxeos Lyceum.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "OCEANMAN Ayia Napa 2026: Open Water Swim in Cyprus",
+    "start": "2026-11-06T16:00:00",
+    "end": "2026-11-08T12:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/oceanman-ayia-napa-2026-open-water-swim-in-cyprus-11247",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Open water swimming event in Ayia Napa with multiple distances, stunning Mediterranean routes and a global swim community.",
+      "location": "Ayia Napa Marina, Ayia Napa",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "1782 Doom: Underground Heavy Show at Savino Live",
+    "start": "2026-05-08T18:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/1782-doom-underground-heavy-show-at-savino-live-11369",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Doom metal live show in Larnaca with 1782 Doom, Crash N Burn and Shipethkies at Savino Live. Expect suffocating riffs and a ritualistic atmosphere.",
+      "location": "Savino Live, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Θεατρική παράσταση «Ποια Ευρώπη;»",
+    "start": "2026-02-01T19:00:00",
+    "end": "2026-03-04T20:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%80%CE%BF%CE%B9%CE%B1-%CE%B5%CF%85%CF%81%CF%8E%CF%80%CE%B7--11395",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Theatre performance touring Cyprus exploring urgent questions about freedom, equality, acceptance, and humanity.",
+      "location": "Various locations, Cyprus",
+      "district": "Famagusta",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Παγκύπριοι Σχολικοί Αγώνες Θεάτρου 2026",
+    "start": "2026-02-25T18:00:00",
+    "end": "2026-03-30T23:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%80%CE%B1%CE%B3%CE%BA%CF%8D%CF%80%CF%81%CE%B9%CE%BF%CE%B9-%CF%83%CF%87%CE%BF%CE%BB%CE%B9%CE%BA%CE%BF%CE%AF-%CE%B1%CE%B3%CF%8E%CE%BD%CE%B5%CF%82-%CE%B8%CE%B5%CE%AC%CF%84%CF%81%CE%BF%CF%85-2026-11450",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "The 37th Cyprus School Theatre Games presenting theatre performances by 56 secondary and technical schools.",
+      "location": "Various locations across Cyprus",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Γυάλινος Κόσμος: Θεατρική Παράσταση στη Λεμεσό",
+    "start": "2026-02-24T20:30:00",
+    "end": "2026-02-24T22:30:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%BF-%CE%B3%CF%85%CE%AC%CE%BB%CE%B9%CE%BD%CE%BF%CF%82-%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11145",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Tennessee Williams' iconic play 'The Glass Menagerie' presented by Theatro DENTRO and Open Arts.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Andreas Kountoureshis: Non-Linear Existence at Afternoon",
+    "start": "2026-02-13T19:00:00",
+    "end": "2026-03-08T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/andreas-kountoureshis-non-linear-existence-at-afternoon-11427",
+    "extendedProps": {
+      "type": "art",
+      "description": "A contemporary art exhibition focused on abstraction and perception by Andreas Kountoureshis.",
+      "location": "Afternoon Hybrid Space, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Crime 101: Crime Drama in Cinemas",
+    "start": "2026-02-21T19:00:00",
+    "end": "2026-03-15T21:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/crime-101-crime-drama-in-cinemas-11577",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A crime thriller film screening in Cyprus starring Chris Hemsworth, Mark Ruffalo and Halle Berry.",
+      "location": "KCineplex",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Rental Family: Drama Comedy in Cinemas",
+    "start": "2026-02-21T17:35:00",
+    "end": "2026-03-15T21:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/rental-family-drama-comedy-in-cinemas-11575",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A comedy-drama film starring Brendan Fraser about an American actor in Tokyo.",
+      "location": "KCineplex",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ifigeneia: Millennium Edition at MAP Hotel",
+    "start": "2026-02-22T19:00:00",
+    "end": "2026-03-08T21:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/ifigeneia-millennium-edition-at-map-hotel-11524",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A 45-minute site-specific theatre experience presented by Alpha Square.",
+      "location": "MAP Hotel, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "ARCO: Family Sci-Fi Animation",
+    "start": "2026-02-21T13:00:00",
+    "end": "2026-03-15T17:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/arco-family-sci-fi-animation-11576",
+    "extendedProps": {
+      "type": "family",
+      "description": "A Greek-language animated fantasy adventure sci-fi film for families.",
+      "location": "KCineplex",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Κρατάς Μυστικό?: Θεατρική Κωμωδία στη Λευκωσία",
+    "start": "2026-02-06T18:00:00",
+    "end": "2026-03-06T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BA%CF%81%CE%B1%CF%84%CE%AC%CF%82-%CE%BC%CF%85%CF%83%CF%84%CE%B9%CE%BA%CF%8C-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CE%BA%CF%89%CE%BC%CF%89%CE%B4%CE%AF%CE%B1-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11229",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A Greek-language comedy blending humour with emotional depth about secrets and family relationships.",
+      "location": "Melina Mercouri Hall, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Marty Supreme: Drama Film at Rialto Theatre",
+    "start": "2026-02-14T18:00:00",
+    "end": "2026-02-25T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/marty-supreme-drama-film-at-rialto-theatre-11461",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A powerful drama film by Josh Safdie starring Timothée Chalamet.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Protaras SwimRun Cyprus 2026: Coastal Endurance Race",
+    "start": "2026-10-17T07:00:00",
+    "end": "2026-10-18T16:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/protaras-swimrun-cyprus-2026-coastal-endurance-race-11151",
+    "extendedProps": {
+      "type": "sport",
+      "description": "The Protaras SwimRun Cyprus 2026 is a two-day endurance sports event combining open-water swimming and coastal trail running in Protaras, Cyprus.",
+      "location": "Protaras, Cyprus",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyprus Padel Tournaments Calendar 2026",
+    "start": "2026-01-31T07:00:00",
+    "end": "2026-12-20T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/cyprus-padel-tournaments-calendar-2026-11194",
+    "extendedProps": {
+      "type": "sports",
+      "description": "The official Cyprus Padel Tournaments Calendar for 2026 including FIP tournaments.",
+      "location": "Multiple Cities, Cyprus",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Εδώ Λέμε SOS: Θεατρική Κωμωδία σε Λευκωσία, Λεμεσό & Λάρνακα",
+    "start": "2026-01-31T20:00:00",
+    "end": "2026-02-25T22:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B5%CE%B4%CF%8E-%CE%BB%CE%AD%CE%BC%CE%B5-sos-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CE%BA%CF%89%CE%BC%CF%89%CE%B4%CE%AF%CE%B1-%CF%83%CE%B5-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C--%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1-11086",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A sharp and heartfelt satire theatre comedy by Giorgos Tsiakkas.",
+      "location": "Latsia Theatre, Nicosia (and other cities)",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Omorfes Skepseis: Ira Katsouda Live Comedy",
+    "start": "2026-02-27T20:30:00",
+    "end": "2026-02-28T22:00:00",
+    "url": "https://eventor.com.cy/events/limassol/omorfes-skepseis-ira-katsouda-live-comedy-11426",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "A stand-up comedy performance featuring observational and personal humour by Ira Katsouda.",
+      "location": "Ravens, Limassol & Dionysos Theatre, Nicosia",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Slow Sew x Leventis Gallery: Knot Bag Sewing Workshop",
+    "start": "2026-02-25T18:30:00",
+    "end": "2026-02-25T20:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/slow-sew-x-leventis-gallery-knot-bag-sewing-workshop-11467",
+    "extendedProps": {
+      "type": "education",
+      "description": "A creative sewing workshop for adults creating handmade knot bags.",
+      "location": "A. G. Leventis Gallery, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Η πράσινη μετάβαση στην καθημερινότητα μας",
+    "start": "2026-02-28T11:00:00",
+    "end": "2026-02-28T14:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CE%B7-%CF%80%CF%81%CE%AC%CF%83%CE%B9%CE%BD%CE%B7-%CE%BC%CE%B5%CF%84%CE%AC%CE%B2%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CF%8C%CF%84%CE%B7%CF%84%CE%B1-%CE%BC%CE%B1%CF%82-11537",
+    "extendedProps": {
+      "type": "education",
+      "description": "A free seminar focusing on how green transition principles can be applied in everyday life.",
+      "location": "Women’s Association building in Agios Theodoros, Larnaca",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Άγιος Παΐσιος: Η Κινηματογραφική Ταινία",
+    "start": "2026-01-29T17:45:00",
+    "end": "2026-02-28T21:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%AC%CE%B3%CE%B9%CE%BF%CF%82-%CF%80%CE%B1%CE%90%CF%83%CE%B9%CE%BF%CF%82-%CE%B7-%CE%BA%CE%B9%CE%BD%CE%B7%CE%BC%CE%B1%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE-%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1-11288",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A Greek biographical film portraying the life journey of Saint Paisios.",
+      "location": "All KCineplex",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "EventOr Cyprus | Find Events",
+    "start": "2026-01-01T00:00:00",
+    "end": "2026-12-31T23:59:59",
+    "url": "https://eventor.com.cy",
+    "extendedProps": {
+      "type": "directory",
+      "description": "EventOr Cyprus Homepage - Find Events, Activities & Things to Do Across Cyprus",
+      "location": "Cyprus",
+      "district": "Cyprus",
+      "language": "en"
+    }
+  },
+  {
+    "title": "SOEN: Live at Royal Hall Nicosia 2026",
+    "start": "2026-06-12T20:00:00",
+    "end": "2026-06-12T23:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/soen-live-at-royal-hall-nicosia-2026-11541",
+    "extendedProps": {
+      "type": "music",
+      "description": "A progressive metal concert by SOEN at Royal Hall with special guests Speak in Whispers and O’Kazen.",
+      "location": "Royal Hall, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The Grand Antiques & Vintage Market Vol.2",
+    "start": "2026-03-07T10:00:00",
+    "end": "2026-03-07T17:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-grand-antiques--vintage-market-vol2-11560",
+    "extendedProps": {
+      "type": "market",
+      "description": "Discover antiques and vintage treasures, including retro fashion, furniture, vinyl records, and art.",
+      "location": "Strovolos Municipal Gardens (Strovolos Town Hall), Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Funked-Up-Project: Rock, Jazz & Funk at Sarah’s Jazz Club",
+    "start": "2026-02-28T21:30:00",
+    "end": "2026-02-28T23:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/funked-up-project-rock-jazz--funk-at-sarahs-jazz-club-11469",
+    "extendedProps": {
+      "type": "music",
+      "description": "A dynamic live performance by Funked-Up-Project blending rock, jazz, blues, and funk.",
+      "location": "Sarah's Jazz & Blues Club, Faneromenis 63, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cablenet Famagusta Run: Protaras 30km Race",
+    "start": "2026-10-11T04:30:00",
+    "url": "https://eventor.com.cy/events/famagusta/cablenet-famagusta-run-protaras-30km-race-11248",
+    "extendedProps": {
+      "type": "race",
+      "description": "Road running event in Protaras, Cyprus. Participants can choose from a 30km training race, a 10km road race, a 5km road and corporate race, or a 1km kids fun race.",
+      "location": "Protaras, Cyprus",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "April Mountain Ride: Spring Mountain Cycling in Solea",
+    "start": "2026-04-05T09:30:00",
+    "end": "2026-04-05T13:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/april-mountain-ride-spring-mountain-cycling-in-solea-11400",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A spring mountain cycling ride in Solea, featuring a 52 km loop from Linou with steady effort and scenic mountain passages.",
+      "location": "Linou Bike Station, Solea Valley",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Λεωνίδας Μπαλάφας: Ζωντανή Εμφάνιση στο Savino Live",
+    "start": "2026-03-20T22:00:00",
+    "end": "2026-03-20T23:59:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CE%BB%CE%B5%CF%89%CE%BD%CE%AF%CE%B4%CE%B1%CF%82-%CE%BC%CF%80%CE%B1%CE%BB%CE%AC%CF%86%CE%B1%CF%82-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AE-%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-%CF%83%CF%84%CE%BF-savino-live-11498",
+    "extendedProps": {
+      "type": "music",
+      "description": "A powerful live performance by Greek songwriter Leonidas Balafas and his band.",
+      "location": "Savino Live, Larnaca",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ο Φίλος μου ο Λευτεράκης: Αμερικανική Ακαδημία Λάρνακας",
+    "start": "2026-02-28T19:30:00",
+    "end": "2026-02-28T21:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/%CE%BF-%CF%86%CE%AF%CE%BB%CE%BF%CF%82-%CE%BC%CE%BF%CF%85-%CE%BF-%CE%BB%CE%B5%CF%85%CF%84%CE%B5%CF%81%CE%AC%CE%BA%CE%B7%CF%82-%CE%B1%CE%BC%CE%B5%CF%81%CE%B9%CE%BA%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE-%CE%B1%CE%BA%CE%B1%CE%B4%CE%B7%CE%BC%CE%AF%CE%B1-%CE%BB%CE%AC%CF%81%CE%BD%CE%B1%CE%BA%CE%B1%CF%82-11549",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "School theatre performance of the classic Greek comedy 'O Filos Mou O Lefterakis' by American Academy Larnaca students.",
+      "location": "American Academy Larnaca Amphitheatre",
+      "district": "Larnaca",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Ecstatic Dance Festival Cyprus 2026",
+    "start": "2026-09-27T17:00:00",
+    "end": "2026-10-02T19:30:00",
+    "url": "https://eventor.com.cy/events/paphos/ecstatic-dance-festival-cyprus-2026-11262",
+    "extendedProps": {
+      "type": "festival",
+      "description": "A six-day festival dedicated to free movement, ecstasy dance, workshops, and community connection near the sea.",
+      "location": "Val’s Place, Cyprus",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "YAKTAK: Live Concert at Notes in Limassol",
+    "start": "2026-04-24T20:00:00",
+    "end": "2026-04-24T23:59:00",
+    "url": "https://eventor.com.cy/events/limassol/yaktak-live-concert-at-notes-in-limassol-11084",
+    "extendedProps": {
+      "type": "music",
+      "description": "Live pop concert featuring YAKTAK in Limassol, performing emotional hits and new tracks.",
+      "location": "Notes Live Music, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Rotary District 2452 Conference in Larnaca 2026",
+    "start": "2026-05-21T15:30:00",
+    "end": "2026-05-23T20:45:00",
+    "url": "https://eventor.com.cy/events/larnaca/rotary-district-2452-conference-in-larnaca-2026-11567",
+    "extendedProps": {
+      "type": "education",
+      "description": "Annual Rotary District 2452 Conference featuring networking, cultural experiences, and celebrations.",
+      "location": "Larnaca, Cyprus",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyprus AI Expo: AI Conference at Radisson Blu Hotel",
+    "start": "2026-07-04T10:00:00",
+    "end": "2026-07-04T19:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/cyprus-ai-expo-ai-conference-at-radisson-blu-hotel-11308",
+    "extendedProps": {
+      "type": "education",
+      "description": "A full-day technology expo focused on artificial intelligence, innovation, and networking.",
+      "location": "Radisson Blu Hotel, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "EventOr Cyprus | Find Events",
+    "start": "2026-01-01T00:00:00",
+    "end": "2026-12-31T23:59:59",
+    "url": "https://eventor.com.cy/events",
+    "extendedProps": {
+      "type": "directory",
+      "description": "EventOr Cyprus Upcoming Events list page.",
+      "location": "Cyprus",
+      "district": "Cyprus",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Larnaca Salt Lake Hike: Nature Walk",
+    "start": "2026-03-01T09:00:00",
+    "end": "2026-03-01T12:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/larnaca-salt-lake-hike-nature-walk-11532",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A guided 11.5km nature hike at Larnaca Salt Lake, ideal for walking and spotting flamingos.",
+      "location": "Larnaca Salt Lake",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Rania Kostaki: Live Performance at Lush",
+    "start": "2026-02-28T21:00:00",
+    "end": "2026-02-28T23:59:00",
+    "url": "https://eventor.com.cy/events/larnaca/rania-kostaki-live-performance-at-lush-11445",
+    "extendedProps": {
+      "type": "party",
+      "description": "Live performance by Rania Kostaki at Lush Beach Bar. Strictly 21+ event.",
+      "location": "Lush Beach Bar, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "OlympusMan Triathlon 2026: The Ultimate Cyprus Challenge",
+    "start": "2026-11-05T12:00:00",
+    "url": "https://eventor.com.cy/events/limassol/olympusman-triathlon-2026-the-ultimate-cyprus-challenge-11411",
+    "extendedProps": {
+      "type": "sport",
+      "description": "One of the most demanding Half-Iron-distance triathlons in the world, starting at sea level in Paphos and finishing at the summit of Mount Olympus.",
+      "location": "Paphos → Troodos → Olympus Peak",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Romiosini 30th Anniversary: National Dance Spectacle",
+    "start": "2026-02-28T19:00:00",
+    "end": "2026-02-28T22:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/romiosini-30th-anniversary-national-dance-spectacle-in-nicosia-11036",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Spectacular 30th-anniversary production of the National Dance Ensemble Romiosini, featuring 100 elite dancers and live Georgian & Greek bands.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Gipsy Kings World Tour 2026: Live Concert in Limassol",
+    "start": "2026-07-19T17:30:00",
+    "url": "https://eventor.com.cy/events/limassol/gipsy-kings-world-tour-2026-live-concert-in-limassol-11228",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Pablo Reyes, original singer and founding member of the legendary Gipsy Kings, brings their iconic sound back to the stage for a night of passion and rhythm.",
+      "location": "Marios Tokas Open Air Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Luca Minnelli: Golden Voice of Venice at Marios Tokas",
+    "start": "2026-06-21T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/luca-minnelli-golden-voice-of-venice-at-marios-tokas-11085",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Pop opera concert in Limassol, Cyprus featuring Luca Minnelli live at Marios Tokas Municipal Theatre blending classical opera with modern pop interpretations.",
+      "location": "Marios Tokas Municipal Garden Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Beach Water Polo Tournament: 10-Year Edition in Paphos",
+    "start": "2026-07-03T05:00:00",
+    "end": "2026-07-05T23:59:59",
+    "url": "https://eventor.com.cy/events/paphos/beach-water-polo-tournament-10-year-edition-in-paphos-11485",
+    "extendedProps": {
+      "type": "sport",
+      "description": "The Beach Water Polo Tournament returns to Paphos in July 2026, marking a decade of competition, teamwork, and unforgettable summer moments.",
+      "location": "Paphos Municipal Baths",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Record Jazz Festival 2025: Live in Paphos",
+    "start": "2026-06-20T14:00:00",
+    "end": "2026-06-21T20:00:00",
+    "url": "https://eventor.com.cy/events/paphos/record-jazz-festival-2025-live-in-paphos-11528",
+    "extendedProps": {
+      "type": "festival",
+      "description": "A two-day jazz festival in Paphos at the House of Arts and Literature, featuring live bands and special collaborations.",
+      "location": "41 - 43 Athinas Street, Paphos 8010",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Valentine’s 5 Senses Latin Night: Dance Party in Nicosia",
+    "start": "2026-02-14T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/valentines-5-senses-latin-night-dance-party-in-nicosia-11093",
+    "extendedProps": {
+      "type": "party",
+      "description": "Valentine Latin dance night in Nicosia featuring Bachata workshops, party till late, drinks included.",
+      "location": "Bailemos Dance School, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The Superior Comedy Tour: Mario Adrion Live",
+    "start": "2026-06-05T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/the-superior-comedy-tour-mario-adrion-live-11442",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "See Mario Adrion live in Limassol with 'The Superior Comedy Tour,' a bold stand-up show at Kyklos Mousiki.",
+      "location": "Kyklos Mousiki, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "0–2000 Gravel Edition: Epic Cycling Challenge",
+    "start": "2026-05-24T04:00:00",
+    "url": "https://eventor.com.cy/events/limassol/02000-gravel-edition-epic-cycling-challenge-11408",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A demanding off-road cycling challenge with climbs, rocky terrain, and epic views along the Troodos mountains.",
+      "location": "Troodos",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Coastal Rowing Beach Sprints: International Race in Limassol",
+    "start": "2026-05-01T14:30:00",
+    "end": "2026-05-03T16:30:00",
+    "url": "https://eventor.com.cy/events/limassol/coastal-rowing-beach-sprints-international-race-in-limassol-11337",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Join an international coastal rowing competition in Limassol this May, featuring beach sprints racing. Open, Juniors U19 and Masters 40+.",
+      "location": "Limassol Nautical Club, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyprus Digital Marketing Summit 2026",
+    "start": "2026-06-04T07:00:00",
+    "end": "2026-06-04T16:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/cyprus-digital-marketing-summit-2026-10956",
+    "extendedProps": {
+      "type": "summit",
+      "description": "A leading digital marketing summit in Larnaca covering SEO, PPC, social media, influencer marketing, branding, and affiliate marketing.",
+      "location": "Radisson Blu Hotel, Atlantidon 2, Larnaca 6058",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The Shapeshifters: Live at Castle Club 2026",
+    "start": "2026-05-30T19:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/the-shapeshifters-live-at-castle-club-2026-11554",
+    "extendedProps": {
+      "type": "party",
+      "description": "Experience a house music night in Ayia Napa with The Shapeshifters and Aline Rocha taking over Castle Club.",
+      "location": "The Castle Club, Ayia Napa",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sooshi Mango: Live Comedy Show in Limassol",
+    "start": "2026-06-02T16:30:00",
+    "url": "https://eventor.com.cy/events/limassol/sooshi-mango-live-comedy-show-in-limassol-11182",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "Watch Sooshi Mango live in Limassol as the Aussie comedy sensation brings the HOME MADE arena show to Cyprus.",
+      "location": "Monte Caputo, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Swim Series Cyprus: Paphos Edition Open Water Race",
+    "start": "2026-05-24T05:00:00",
+    "url": "https://eventor.com.cy/events/paphos/swim-series-cyprus-paphos-edition-open-water-race-11340",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Take part in an open water swimming event in Paphos with multiple race distances for all ages at Alykes Beach.",
+      "location": "Alykes Beach, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Running Under The Moon 2026: Nicosia Edition",
+    "start": "2026-06-12T16:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/running-under-the-moon-2026-nicosia-edition-11413",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Experience the biggest running party of the summer in Nicosia with music, lights, and a fun night run at UCY Gym.",
+      "location": "UCY Gym, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Heatwave Fitness Festival 2026: Two-Day Fitness at Molos",
+    "start": "2026-04-25T06:00:00",
+    "end": "2026-04-26T15:00:00",
+    "url": "https://eventor.com.cy/events/limassol/heatwave-fitness-festival-2026-two-day-fitness-at-molos-11294",
+    "extendedProps": {
+      "type": "festival",
+      "description": "A two-day outdoor fitness event at Molos with workouts, DJs and wellness vibes.",
+      "location": "Molos, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Γιώργος Νταλάρας: Τα Τραγούδια της Ζωής μας στη Λευκωσία",
+    "start": "2026-05-17T17:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%B3%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82-%CE%BD%CF%84%CE%B1%CE%BB%CE%AC%CF%81%CE%B1%CF%82-%CF%84%CE%B1-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%B6%CF%89%CE%AE%CF%82-%CE%BC%CE%B1%CF%82-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11472",
+    "extendedProps": {
+      "type": "concert",
+      "description": "This concert in Nicosia brings together Giorgos Dalaras and the Cyprus Youth Symphony Orchestra for a special evening titled Songs of Our Lives.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Mazotos Triathlon 2026: Coastal Olympic Distance",
+    "start": "2026-05-17T03:45:00",
+    "url": "https://eventor.com.cy/events/larnaca/mazotos-triathlon-2026-coastal-olympic-distance-11410",
+    "extendedProps": {
+      "type": "sport",
+      "description": "Kick off the triathlon season at Mazotos Triathlon with a calm sea swim, flat bike and run courses near Larnaca.",
+      "location": "Mazotos",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Γιώργος Νταλάρας: Τα Τραγούδια της Ζωής μας στη Λεμεσό",
+    "start": "2026-05-19T17:30:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%B3%CE%B9%CF%8E%CF%81%CE%B3%CE%BF%CF%82-%CE%BD%CF%84%CE%B1%CE%BB%CE%AC%CF%81%CE%B1%CF%82-%CF%84%CE%B1-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9%CE%B1-%CF%84%CE%B7%CF%82-%CE%B6%CF%89%CE%AE%CF%82-%CE%BC%CE%B1%CF%82-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11484",
+    "extendedProps": {
+      "type": "concert",
+      "description": "This concert in Limassol brings together Giorgos Dalaras and the Cyprus Youth Symphony Orchestra for a special performance titled Songs of Our Lives.",
+      "location": "Pattichio Municipal Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Amenra Live: Post-Metal Ritual Night in Nicosia",
+    "start": "2026-05-13T17:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/amenra-live-post-metal-ritual-night-in-nicosia-11041",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Experience Amenra live in Nicosia for a powerful post-metal ritual at Downtown Live.",
+      "location": "Downtown Live, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "DARK DREAMS FESTIVAL 2026",
+    "start": "2026-04-29T09:00:00",
+    "end": "2026-05-03T23:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/dark-dreams-festival-2026-10835",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Psytrance festival in Lefkara, Cyprus. Five days of psycore, hitech, experimental, slambient music with fire shows and visuals.",
+      "location": "Lefkara Mountains, Larnaca District",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "AI Cyprus Expo: Business AI Event in Limassol",
+    "start": "2026-04-23T06:00:00",
+    "end": "2026-04-24T14:00:00",
+    "url": "https://eventor.com.cy/events/limassol/ai-cyprus-expo-business-ai-event-in-limassol-11231",
+    "extendedProps": {
+      "type": "summit",
+      "description": "A business-focused AI expo in Limassol featuring exhibitions, panel discussions and networking on practical AI adoption across industries.",
+      "location": "Carob Mill, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The 47 Contemporary Social Drama: Film Screening in Larnaca",
+    "start": "2026-05-11T17:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/the-47-contemporary-social-drama-film-screening-in-larnaca-11368",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "A contemporary social drama film screening with a strong social narrative with a clear political perspective.",
+      "location": "Georghios Lykourgos Municipal Theatre of Larnaka",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Mother of Millions: Progressive Metal Live in Larnaca",
+    "start": "2026-04-24T19:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/mother-of-millions-progressive-metal-live-in-larnaca-11074",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Get ready to lose yourself in a night of progressive metal as Mother of Millions return to Savino Live.",
+      "location": "Savino Live, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Dragon Lake Tymfi 2026: Guided Mountain Expedition",
+    "start": "2026-05-21T06:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/dragon-lake-tymfi-2026-guided-mountain-expedition-11014",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A unique mountain expedition to Dragon Lake Tymfi, Greece. An immersive outdoor adventure combining hiking, exploration, and dramatic alpine scenery.",
+      "location": "Tymfi, Greece",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "World FUE Institute Workshop: Medical Training in Limassol",
+    "start": "2026-05-13T06:00:00",
+    "end": "2026-05-16T14:00:00",
+    "url": "https://eventor.com.cy/events/limassol/world-fue-institute-workshop-medical-training-in-limassol-11110",
+    "extendedProps": {
+      "type": "workshop",
+      "description": "The 9th World FUE Institute Workshop offering four focused days on FUE education, including lectures and live surgery.",
+      "location": "Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Legion Inflatable Run: Family Edition Outdoor Fun",
+    "start": "2026-04-25T07:00:00",
+    "url": "https://eventor.com.cy/events/limassol/legion-inflatable-run-family-edition-outdoor-fun-11365",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A joyful inflatable obstacle run in Cyprus for families, friends, and teams, focused on fun, teamwork, and shared moments.",
+      "location": "To Be Announced",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Πριν έρθει ο Γερμανός: Θεατρική Παράσταση στη Λευκωσία",
+    "start": "2026-05-17T17:30:00",
+    "end": "2026-05-19T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%80%CF%81%CE%B9%CE%BD-%CE%AD%CF%81%CE%B8%CE%B5%CE%B9-%CE%BF-%CE%B3%CE%B5%CF%81%CE%BC%CE%B1%CE%BD%CF%8C%CF%82-%CE%B8%CE%B5%CE%B1%CF%84%CF%81%CE%B9%CE%BA%CE%AE-%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11230",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A contemporary theatre performance approaching Alzheimer’s disease with sensitivity, humanity and emotional depth.",
+      "location": "Flea Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Bedrock Gravel Festival 2026: Ride & Explore in Cyprus",
+    "start": "2026-04-19T05:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/bedrock-gravel-festival-2026-ride--explore-in-cyprus-11290",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A multi-day gravel cycling festival in Tochni, blending exploration, challenge, and local culture.",
+      "location": "Tochni",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "DakhaBrakha: Ethno-Chaos Concert at Pattihio Theatre",
+    "start": "2026-04-15T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/dakhabrakha-ethno-chaos-concert-at-pattihio-theatre-11264",
+    "extendedProps": {
+      "type": "concert",
+      "description": "An intense and emotionally charged live music concert by the internationally acclaimed Ukrainian quartet DakhaBrakha.",
+      "location": "Pattihio Theatre, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Stand-Up & Wrestling for Autism in Cyprus",
+    "start": "2026-04-04T12:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/stand-up--wrestling-for-autism-in-cyprus-11531",
+    "extendedProps": {
+      "type": "community",
+      "description": "Charity events including pro-wrestling in Tseri and stand-up comedy in Nicosia in support of the NGO Voice for Autism.",
+      "location": "CPWA Academy, Tseri and Satiriko Theatre, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyprus Trail Race 5KM: Scenic Run in Platres",
+    "start": "2026-05-03T08:00:00",
+    "url": "https://eventor.com.cy/events/limassol/cyprus-trail-race-5km-scenic-run-in-platres-11226",
+    "extendedProps": {
+      "type": "race",
+      "description": "A scenic 5km trail run in Platres, combining outdoor sport, community activities, and charitable support in the Troodos mountains.",
+      "location": "Platres Square, Pano Platres",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "RAGE return to SAVINO LIVE",
+    "start": "2026-04-18T19:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/rage-return-to-savino-live-11538",
+    "extendedProps": {
+      "type": "concert",
+      "description": "RAGE returns with their New World Rising Tour joined by BLYND as the opening band.",
+      "location": "Savino Live, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Dephosphorus: Planetoktonos Album Set at Downtown Live",
+    "start": "2026-04-09T17:00:00",
+    "end": "2026-04-09T20:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/dephosphorus-planetoktonos-album-set-at-downtown-live-11393",
+    "extendedProps": {
+      "type": "concert",
+      "description": "An extreme metal concert presenting Planetoktonos in full, a relentless experience shaped by cosmic themes.",
+      "location": "Downtown Live, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Miltos Paschalidis: DownTown Live Concert",
+    "start": "2026-04-18T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/miltos-paschalidis-downtown-live-concert-11543",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live music concert by Miltos Paschalidis with a powerful set filled with beloved songs and vibrant stage energy.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Around the World: Concert at Satiriko Theatre",
+    "start": "2026-04-04T14:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/around-the-world-concert-at-satiriko-theatre-11573",
+    "extendedProps": {
+      "type": "family",
+      "description": "A musical journey around the world performed by Musicopolis ensembles, celebrating diverse cultures and global sounds.",
+      "location": "SATIRIKO THEATRE NICOSIA",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Fuckup Nights Limassol: Anniversary at IT Quarter",
+    "start": "2026-04-07T16:00:00",
+    "end": "2026-04-07T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/fuckup-nights-limassol-anniversary-at-it-quarter-11569",
+    "extendedProps": {
+      "type": "community",
+      "description": "A business storytelling event dedicated to honest conversations about failure and growth.",
+      "location": "The Warehouse by IT Quarter, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Aphrodite Half Marathon: Coastal Race in Polis Chrysochous",
+    "start": "2026-04-19T04:45:00",
+    "url": "https://eventor.com.cy/events/paphos/aphrodite-half-marathon-coastal-race-in-polis-chrysochous-11389",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A scenic road running event including a half marathon, 10km, 5km and kids races along Cyprus' stunning coast.",
+      "location": "Pólis Chrysochoús, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "EFC 3: Fight Event at Kition Athletic Center",
+    "start": "2026-04-04T13:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/efc-3-fight-event-at-kition-athletic-center-11570",
+    "extendedProps": {
+      "type": "sport",
+      "description": "An explosive fight night filled with power, passion and adrenaline, featuring martial arts fights and a Main Event.",
+      "location": "Kition Athletic Center, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Original Night: Alternative Live at Downtown Live",
+    "start": "2026-04-05T16:00:00",
+    "end": "2026-04-05T20:45:00",
+    "url": "https://eventor.com.cy/events/nicosia/original-night-alternative-live-at-downtown-live-11513",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A curated live music showcase celebrating original music by Solonos, Leave the Wave and Mannu.",
+      "location": "Downtown Live, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ritter Butzke: Live in Limassol",
+    "start": "2026-04-18T16:00:00",
+    "url": "https://eventor.com.cy/events/limassol/ritter-butzke-live-in-limassol-11535",
+    "extendedProps": {
+      "type": "party",
+      "description": "A Berlin electronic showcase delivering a club experience with melodic techno and live performances.",
+      "location": "ETKO, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Lefkara Country Run: Cross Country Weekend in Lefkara",
+    "start": "2026-04-18T14:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/lefkara-country-run-cross-country-weekend-in-lefkara-11282",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A two-day cross-country running event featuring a Vertical Challenge and Country Run in the traditional village of Lefkara.",
+      "location": "Lefkara",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "ZAMNA Limassol: ETKO Festival 2026",
+    "start": "2026-05-02T13:00:00",
+    "end": "2026-05-03T20:59:00",
+    "url": "https://eventor.com.cy/events/limassol/zamna-limassol-etko-festival-2026-11545",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Experience a 2-day electronic music festival in Limassol this May 2026 as ZAMNA arrives at ETKO with global production and top artists including Black Coffee.",
+      "location": "ETKO Open Air, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Κοινοί Θνητοί: Live στο DownTown Λευκωσία",
+    "start": "2026-04-10T20:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BA%CE%BF%CE%B9%CE%BD%CE%BF%CE%AF-%CE%B8%CE%BD%CE%B7%CF%84%CE%BF%CE%AF-live-%CF%83%CF%84%CE%BF-downtown-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11553",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live music concert by Koinoi Thnitoi with an explosive blend of hip-hop, rock and traditional influences.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Θοδωρής Φέρρης Live: Ζωντανή Εμφάνιση στη Λεμεσό",
+    "start": "2026-04-01T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%B8%CE%BF%CE%B4%CF%89%CF%81%CE%AE%CF%82-%CF%86%CE%AD%CF%81%CF%81%CE%B7%CF%82-live-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AE-%CE%B5%CE%BC%CF%86%CE%AC%CE%BD%CE%B9%CF%83%CE%B7-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11490",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Thodoris Ferris takes the stage for a special live performance filled with emotion, energy, and modern Greek pop sound.",
+      "location": "Monte Caputo Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Guided Intermediate Hike in Machairas",
+    "start": "2026-04-01T06:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/guided-intermediate-hike-in-machairas-11454",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A guided intermediate hike in Machairas Forest, featuring forest paths and a break next to Gialias river.",
+      "location": "Mandra tou Kampiou, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ayia Napa Youth Soccer Festival 2026: International Tournament",
+    "start": "2026-04-04T05:00:00",
+    "end": "2026-04-09T23:59:59",
+    "url": "https://eventor.com.cy/events/famagusta/ayia-napa-youth-soccer-festival-2026-international-tournament-11412",
+    "extendedProps": {
+      "type": "festival",
+      "description": "An international grassroots football tournament bringing together youth football teams from around the world.",
+      "location": "Ayia Napa",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "MPLE Full Band Live: Downtown Nicosia",
+    "start": "2026-04-03T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/mple-full-band-live-downtown-nicosia-11522",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live pop-rock concert featuring MPLE in a full band performance.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Scyence Fair 2026: Science Festival in Nicosia",
+    "start": "2026-04-03T06:00:00",
+    "end": "2026-04-04T12:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/scyence-fair-2026-science-festival-in-nicosia-11563",
+    "extendedProps": {
+      "type": "festival",
+      "description": "A two-day science festival featuring competitions, interactive exhibitions and lab tours at The Cyprus Institute.",
+      "location": "The Cyprus Institute, Aglantzia, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ζαφείρης Μελάς: Ζωντανή Λαϊκή Βραδιά στη Λεμεσό",
+    "start": "2026-03-31T19:30:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%B6%CE%B1%CF%86%CE%B5%CE%AF%CF%81%CE%B7%CF%82-%CE%BC%CE%B5%CE%BB%CE%AC%CF%82-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AE-%CE%BB%CE%B1%CF%8A%CE%BA%CE%AE-%CE%B2%CF%81%CE%B1%CE%B4%CE%B9%CE%AC-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CE%BC%CE%B5%CF%83%CF%8C-11466",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live music event welcoming Greek laiko icon Zafeiris Melas for an unforgettable night of emotion and authentic sound.",
+      "location": "Neo Fiesta Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "International Tattoo Convention: Art & Culture in Limassol",
+    "start": "2026-04-03T10:00:00",
+    "end": "2026-04-05T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/international-tattoo-convention-art--culture-in-limassol-11080",
+    "extendedProps": {
+      "type": "festival",
+      "description": "Experience three days of tattoo art at the 11th Cyprus International Tattoo Convention, bringing together artists and studios from Cyprus and abroad.",
+      "location": "Vasilissis Street, 3602 Limassol, Cyprus",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "100KM Charity Run: Amber & Joe Strovolos",
+    "start": "2026-04-04T04:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/100km-charity-run-amber--joe-strovolos-11555",
+    "extendedProps": {
+      "type": "sport",
+      "description": "A 100km charity run in collaboration with The Roasted Runners and Nicholas Zoe Foundation.",
+      "location": "Amber & Joe Coffee Shop Strovolou",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Geoff Tate: Operation Mindcrime Live in Nicosia",
+    "start": "2026-03-31T18:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/geoff-tate-operation-mindcrime-live-in-nicosia-11113",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A landmark concept album comes to life on stage, with Geoff Tate performing Operation: Mindcrime live.",
+      "location": "DownTown Live",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "TechnoTide: Sunset Techno Session in Pegeia",
+    "start": "2026-05-02T14:00:00",
+    "end": "2026-05-02T23:00:00",
+    "url": "https://eventor.com.cy/events/paphos/technotide-sunset-techno-session-in-pegeia-11277",
+    "extendedProps": {
+      "type": "party",
+      "description": "Experience a premium sunset techno event by the sea in Pegeia this May 2026, with international DJs, open-air vibes, and a carefully curated crowd.",
+      "location": "Coral Residences by Korantina Homes, Pegeia",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Agora’s Wellness Retreat: Spring Reset in Pano Lefkara",
+    "start": "2026-03-31T12:00:00",
+    "url": "https://eventor.com.cy/events/larnaca/agoras-wellness-retreat-spring-reset-in-pano-lefkara-11568",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A five-day natural wellness retreat combining movement, breathwork, creativity and nourishment in an intimate setting.",
+      "location": "25 Timiou Stavrou, 7700 Pano Lefkara, Cyprus",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Θοδωρής Φέρρης Live στο Monte Caputo",
+    "start": "2026-03-31T19:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CE%B8%CE%BF%CE%B4%CF%89%CF%81%CE%AE%CF%82-%CF%86%CE%AD%CF%81%CF%81%CE%B7%CF%82-live-%CF%83%CF%84%CE%BF-monte-caputo-11332",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live Greek pop music concert featuring Thodoris Ferris, performing an evening of emotional performances and chart-topping hits.",
+      "location": "Monte Caputo Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Cyprus Four Peaks Trek: Easter Hiking Adventure in Troodos",
+    "start": "2026-04-03T05:00:00",
+    "end": "2026-04-06T23:59:59",
+    "url": "https://eventor.com.cy/events/larnaca/cyprus-four-peaks-trek-easter-hiking-adventure-in-troodos-11097",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A four-day guided hiking adventure in Cyprus over the Easter weekend, exploring the island’s highest peaks in the Troodos Mountains.",
+      "location": "Troodos Mountains (Based in Agios Vavatsinias)",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Masterclass με την Νατάσα Μποφίλιου",
+    "start": "2026-03-27T15:00:00",
+    "end": "2026-03-29T12:00:00",
+    "url": "https://eventor.com.cy/events/paphos/masterclass-%CE%BC%CE%B5-%CF%84%CE%B7%CE%BD-%CE%BD%CE%B1%CF%84%CE%AC%CF%83%CE%B1-%CE%BC%CF%80%CE%BF%CF%86%CE%AF%CE%BB%CE%B9%CE%BF%CF%85-11512",
+    "extendedProps": {
+      "type": "workshop",
+      "description": "A 3-day interactive interpretation masterclass led by Natassa Bofiliou, exploring song interpretation through discussion, analysis and hands-on practice.",
+      "location": "City Hall by Music Academy Aspa Vasilio, Paphos",
+      "district": "Paphos",
+      "language": "en"
+    }
+  },
+  {
+    "title": "World Whisky Day: Charity Whisky & BBQ Night at ETKO",
+    "start": "2026-03-27T16:00:00",
+    "end": "2026-03-27T21:59:00",
+    "url": "https://eventor.com.cy/events/limassol/world-whisky-day-charity-whisky--bbq-night-at-etko-11428",
+    "extendedProps": {
+      "type": "food",
+      "description": "Celebrate World Whisky Day with a charity whisky and BBQ experience at ETKO, organised by Whisky Society Cyprus.",
+      "location": "ETKO, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Sentimental Value: Film Screening in Larnaca",
+    "start": "2026-03-30T17:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/sentimental-value-film-screening-in-larnaca-11170",
+    "extendedProps": {
+      "type": "cinema",
+      "description": "A screening of 'Sentimental Value', a reflective drama exploring memory, objects, and emotional meaning, followed by a 15-minute discussion.",
+      "location": "Georghios Lykourgos Municipal Theatre of Larnaka",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Tabletop RPG Night at By The Bridge: Fantasy Gaming in Nicosia",
+    "start": "2026-03-29T13:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/tabletop-rpg-night-at-by-the-bridge-fantasy-gaming-in-nicosia-11480",
+    "extendedProps": {
+      "type": "other",
+      "description": "A fantastical tabletop roleplaying night dedicated to collaborative storytelling, imagination, and adventure.",
+      "location": "By The Bridge, Acropolis Park, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Reimagined: Social Dance at Pattichio Theatre",
+    "start": "2026-03-29T13:00:00",
+    "url": "https://eventor.com.cy/events/limassol/reimagined-social-dance-at-pattichio-theatre-11572",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A social dance performance exploring the darker aspects of today’s world, humanity, hope, and faith in a better future.",
+      "location": "Pattichio Limassol Municipal Theatre",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Bollywood Night: Duplex Club Nicosia 2026",
+    "start": "2026-03-29T13:00:00",
+    "end": "2026-03-29T18:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/bollywood-night-duplex-club-nicosia-2026-11556",
+    "extendedProps": {
+      "type": "party",
+      "description": "A Bollywood-themed party bringing music, dance and vibrant energy inspired by Bollywood culture.",
+      "location": "Duplex Club Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "We Will Return: Raj’een Theatre Performance in Limassol",
+    "start": "2026-03-29T17:00:00",
+    "url": "https://eventor.com.cy/events/limassol/we-will-return-rajeen-theatre-performance-in-limassol-11158",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A moving theatre production bringing to life the experiences of displacement, resilience, and the enduring hope of return.",
+      "location": "Andrea Drousioti 19, Platia Iroon, 3040 Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Mikroi Iroes x AGRO Charity Hike: Outdoor Event in Platres",
+    "start": "2026-05-02T16:00:00",
+    "url": "https://eventor.com.cy/events/limassol/mikroi-iroes-x-agro-charity-hike-outdoor-event-in-platres-11225",
+    "extendedProps": {
+      "type": "hike",
+      "description": "A free charity hike at Platres Square in May 2026, bringing together outdoor activity, community spirit, and support for Mikroi Iroes in the Troodos area.",
+      "location": "Platres Square, Pano Platres",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Co-Creators Assembly 2026: Larnaka 2030",
+    "start": "2026-03-28T07:30:00",
+    "end": "2026-03-29T14:30:00",
+    "url": "https://eventor.com.cy/events/larnaca/co-creators-assembly-2026-larnaka-2030-11565",
+    "extendedProps": {
+      "type": "workshop",
+      "description": "A two-day conference presenting in detail the approved Artistic Programme of Larnaka 2030 and integrating new projects.",
+      "location": "Agios Georgios Lyceum, Larnaca",
+      "district": "Larnaca",
+      "language": "en"
+    }
+  },
+  {
+    "title": "The Curious Incident of the Dog in the Night-Time: Student Production at Satiriko",
+    "start": "2026-03-29T15:30:00",
+    "end": "2026-03-29T17:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/the-curious-incident-of-the-dog-in-the-night-time-student-production-at-satiriko-11309",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A contemporary student production of the acclaimed novel exploring truth, logic, and emotion.",
+      "location": "Satiriko Theater, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Στέλιος Ανατολίτης: «Κατά Διαόλου» στην Κύπρο",
+    "start": "2026-03-27T18:30:00",
+    "end": "2026-03-29T19:00:00",
+    "url": "https://eventor.com.cy/events/limassol/%CF%83%CF%84%CE%AD%CE%BB%CE%B9%CE%BF%CF%82-%CE%B1%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%AF%CF%84%CE%B7%CF%82-%CE%BA%CE%B1%CF%84%CE%AC-%CE%B4%CE%B9%CE%B1%CF%8C%CE%BB%CE%BF%CF%85-%CF%83%CF%84%CE%B7%CE%BD-%CE%BA%CF%8D%CF%80%CF%81%CE%BF-11520",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "Stelios Anatolitis' fourth solo stand-up comedy show, delivering sharp, politically aware and personal comedy.",
+      "location": "Multiple Cities (Limassol, Nicosia, Larnaca)",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "I Love The 90s & 00s with Dino G: Parties in Limassol & Nicosia",
+    "start": "2026-03-28T20:00:00",
+    "url": "https://eventor.com.cy/events/limassol/i-love-the-90s--00s-with-dino-g-parties-in-limassol--nicosia-11331",
+    "extendedProps": {
+      "type": "party",
+      "description": "Relive the biggest 90s & 00s hits with Dino G at two iconic venues in Cyprus.",
+      "location": "Carob Mill Restaurants, Limassol & Residence by Occhio, Nicosia",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Νεφέλη Φασούλη: Live στη Λευκωσία",
+    "start": "2026-03-28T18:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BD%CE%B5%CF%86%CE%AD%CE%BB%CE%B7-%CF%86%CE%B1%CF%83%CE%BF%CF%8D%CE%BB%CE%B7-live-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11523",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live music event blending art-pop, jazz and folk influences by Nefeli Fasouli.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Χαΐνηδες: Ζωντανά στη Λευκωσία",
+    "start": "2026-03-24T21:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CF%87%CE%B1%CE%90%CE%BD%CE%B7%CE%B4%CE%B5%CF%82-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AC-%CF%83%CF%84%CE%B7-%CE%BB%CE%B5%CF%85%CE%BA%CF%89%CF%83%CE%AF%CE%B1-11430",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live music event with Hainides, blending Cretan musical tradition with contemporary lyrics and artistic freedom.",
+      "location": "DownTown Live, Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Konstantinos Argiros Live: Pavilion Hall Nicosia",
+    "start": "2026-03-24T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/konstantinos-argiros-live-pavilion-hall-nicosia-11519",
+    "extendedProps": {
+      "type": "concert",
+      "description": "A live concert in Nicosia featuring Konstantinos Argiros, with VIP sofa and table options available.",
+      "location": "Pavilion Hall Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "The Exploited: Live Punk Rock Chaos in Limassol 2025",
+    "start": "2026-03-25T18:00:00",
+    "url": "https://eventor.com.cy/events/limassol/the-exploited-live-punk-rock-chaos-in-limassol-2025-10653",
+    "extendedProps": {
+      "type": "concert",
+      "description": "Legendary UK punk band The Exploited hits Cyprus for the first time for a night of pure punk energy.",
+      "location": "Music Hall, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Korolova: Captive Soul Open-Air at ETKO",
+    "start": "2026-03-21T16:00:00",
+    "url": "https://eventor.com.cy/events/limassol/korolova-captive-soul-open-air-at-etko-11295",
+    "extendedProps": {
+      "type": "party",
+      "description": "An open-air melodic house & techno night featuring Korolova's Captive Soul series.",
+      "location": "ETKO Cyprus",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "CINDERELLA: Family Musical at Nicosia Municipal Theatre",
+    "start": "2026-03-21T17:00:00",
+    "end": "2026-03-22T11:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/cinderella-family-musical-at-nicosia-municipal-theatre-11363",
+    "extendedProps": {
+      "type": "theatre",
+      "description": "A spectacular family musical blending music, dance, theatre and contemporary circus arts, featuring animatronic figures.",
+      "location": "Nicosia Municipal Theatre",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Cyprus Diaspora Forum 2026: Global Business & Innovation Summit",
+    "start": "2026-05-06T16:30:00",
+    "end": "2026-05-09T18:30:00",
+    "url": "https://eventor.com.cy/events/limassol/cyprus-diaspora-forum-2026-global-business--innovation-summit-10568",
+    "extendedProps": {
+      "type": "summit",
+      "description": "This high-profile B2B and B2C forum connects global Cypriot diaspora communities with influential leaders from government, business, academia, and media.",
+      "location": "Amara Hotel & Parklane Resort & Spa, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ruslan Bely: IMMIGRACIAS Stand-Up in Limassol",
+    "start": "2026-03-21T17:00:00",
+    "end": "2026-03-22T19:00:00",
+    "url": "https://eventor.com.cy/events/limassol/ruslan-bely-immigracias-stand-up-in-limassol-11157",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "A Russian-language stand-up performance presenting a bold, humorous, and heartfelt look at immigration and identity.",
+      "location": "Rialto Theatre, Limassol",
+      "district": "Limassol",
+      "language": "ru"
+    }
+  },
+  {
+    "title": "2 Πορείες στην Ξυσταρούδα: Μέτρια & Δύσκολη",
+    "start": "2026-03-22T07:15:00",
+    "end": "2026-03-22T12:00:00",
+    "url": "https://eventor.com.cy/events/limassol/2-%CF%80%CE%BF%CF%81%CE%B5%CE%AF%CE%B5%CF%82-%CF%83%CF%84%CE%B7%CE%BD-%CE%BE%CF%85%CF%83%CF%84%CE%B1%CF%81%CE%BF%CF%8D%CE%B4%CE%B1-%CE%BC%CE%AD%CF%84%CF%81%CE%B9%CE%B1--%CE%B4%CF%8D%CF%83%CE%BA%CE%BF%CE%BB%CE%B7-11515",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "Two simultaneous hiking routes in the Xystaroudas area offering moderate and difficult options.",
+      "location": "Xystaroudas Area (Starting from Xylogefyro Area)",
+      "district": "Limassol",
+      "language": "el"
+    }
+  },
+  {
+    "title": "Touch Grass: Tree Planting in Lofou 2026",
+    "start": "2026-03-22T09:00:00",
+    "url": "https://eventor.com.cy/events/limassol/touch-grass-tree-planting-in-lofou-2026-11557",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A tree planting initiative in Lofou promoting sustainability and community action.",
+      "location": "Lofou, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "March Training Ride: Demanding Cycle in Solea Valley",
+    "start": "2026-03-22T07:30:00",
+    "end": "2026-03-22T10:30:00",
+    "url": "https://eventor.com.cy/events/nicosia/march-training-ride-demanding-cycle-in-solea-valley-11399",
+    "extendedProps": {
+      "type": "sports",
+      "description": "A demanding training cycling ride in Solea Valley, a 45 km loop with climbs and strong pace.",
+      "location": "SOLEA bicycle (Start: Linou Bike Station)",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Abandoned Settlement in Machairas: Guided Hike",
+    "start": "2026-03-22T07:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/abandoned-settlement-in-machairas-guided-hike-11452",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A guided hike in Machairas Forest exploring Throumpiaris peak and the abandoned Chelidonia settlement.",
+      "location": "Mandra tou Kampiou, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Hiking at Kolympos tou Filaniou: Machairas 2026",
+    "start": "2026-03-22T06:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/hiking-at-kolympos-tou-filaniou-machairas-2026-11561",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "A guided hiking trip in Machairas to Kolympos tou Filaniou, including a monastery visit and picnic.",
+      "location": "Kolympos tou Filaniou (Departure from Cyprus Handicraft Centre in Nicosia)",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Ayia Napa Triathlon 2026: Swim • Bike • Run",
+    "start": "2026-03-22T06:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/ayia-napa-triathlon-2026-swim--bike--run-11407",
+    "extendedProps": {
+      "type": "sports",
+      "description": "The first triathlon event of the season in Ayia Napa, featuring a scenic coastal course.",
+      "location": "Ayia Napa",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Reforest With Us: Community Tree Planting in Vouni",
+    "start": "2026-03-22T09:00:00",
+    "url": "https://eventor.com.cy/events/limassol/reforest-with-us-community-tree-planting-in-vouni-11507",
+    "extendedProps": {
+      "type": "outdoor",
+      "description": "An environmental volunteering event in Vouni, planting trees to restore fire-affected land.",
+      "location": "Vouni, Limassol",
+      "district": "Limassol",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Fayth Earnshaw: Spiritual Medium Night in Famagusta",
+    "start": "2026-03-21T18:00:00",
+    "url": "https://eventor.com.cy/events/famagusta/fayth-earnshaw-spiritual-medium-night-in-famagusta-11354",
+    "extendedProps": {
+      "type": "live shows",
+      "description": "An evening of group mediumship with spiritual medium Fayth Earnshaw, accompanied by live music.",
+      "location": "Diamonds Show Bar",
+      "district": "Famagusta",
+      "language": "en"
+    }
+  },
+  {
+    "title": "Λούης Πατσαλίδης: Αφιέρωμα στο Σατιρικό Τραγούδι",
+    "start": "2026-03-20T20:00:00",
+    "end": "2026-03-27T21:59:00",
+    "url": "https://eventor.com.cy/events/nicosia/%CE%BB%CE%BF%CF%8D%CE%B7%CF%82-%CF%80%CE%B1%CF%84%CF%83%CE%B1%CE%BB%CE%AF%CE%B4%CE%B7%CF%82-%CE%B1%CF%86%CE%B9%CE%AD%CF%81%CF%89%CE%BC%CE%B1-%CF%83%CF%84%CE%BF-%CF%83%CE%B1%CF%84%CE%B9%CF%81%CE%B9%CE%BA%CF%8C-%CF%84%CF%81%CE%B1%CE%B3%CE%BF%CF%8D%CE%B4%CE%B9-11391",
+    "extendedProps": {
+      "type": "comedy",
+      "description": "A live music and comedy show forming a special tribute to satirical song, accompanied by a live band.",
+      "location": "Downtown Live Nicosia",
+      "district": "Nicosia",
+      "language": "el"
+    }
+  },
+  {
+    "title": "BPM Maniac Impulse: Psytrance Night in Nicosia",
+    "start": "2026-04-25T19:00:00",
+    "url": "https://eventor.com.cy/events/nicosia/bpm-maniac-impulse-psytrance-night-in-nicosia-11387",
+    "extendedProps": {
+      "type": "party",
+      "description": "Psychedelic restart party in Nicosia after 7 years, featuring full-on, darkpsy and hitech sounds at Camelot Park.",
+      "location": "Camelot Park, Nicosia",
+      "district": "Nicosia",
+      "language": "en"
+    }
+  }
+]
