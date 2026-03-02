@@ -18,7 +18,7 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/events.json')
+    fetch(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ''}/events.json`)
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to fetch events: ${res.status}`);
         return res.json();
