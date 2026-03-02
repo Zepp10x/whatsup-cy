@@ -1,10 +1,10 @@
 'use client';
 
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useCallback, useMemo, useState } from 'react';
 import FullCalendar from '@fullcalendar/react';
 import dayGridPlugin from '@fullcalendar/daygrid';
 import listPlugin from '@fullcalendar/list';
-import { Box, CircularProgress, Typography, useTheme } from '@mui/material';
+import { Box, useTheme } from '@mui/material';
 import { Global, css } from '@emotion/react';
 import type { EventClickArg } from '@fullcalendar/core';
 import type { CalendarEvent, CalendarEventExtendedProps } from '../types/event';
@@ -14,11 +14,11 @@ import { getEventColor } from '../utils/eventColors';
 /** Events longer than this render as dots instead of spanning bars */
 const LONG_EVENT_THRESHOLD_DAYS = 7;
 
-export default function EventCalendar() {
-    const [events, setEvents] = useState<CalendarEvent[]>([]);
-    const [loading, setLoading] = useState(true);
-    const [error, setError] = useState<string | null>(null);
+interface EventCalendarProps {
+    events: CalendarEvent[];
+}
 
+export default function EventCalendar({ events }: EventCalendarProps) {
     // Popover state
     const [popoverAnchorEl, setPopoverAnchorEl] = useState<HTMLElement | null>(null);
     const [selectedEvent, setSelectedEvent] = useState<{
@@ -28,22 +28,6 @@ export default function EventCalendar() {
         url: string;
         extendedProps: CalendarEventExtendedProps;
     } | null>(null);
-
-    useEffect(() => {
-        fetch('/events.json')
-            .then((res) => {
-                if (!res.ok) throw new Error(`Failed to fetch events: ${res.status}`);
-                return res.json();
-            })
-            .then((data: CalendarEvent[]) => {
-                setEvents(data);
-                setLoading(false);
-            })
-            .catch((err) => {
-                setError(err instanceof Error ? err.message : 'Failed to load events');
-                setLoading(false);
-            });
-    }, []);
 
     const theme = useTheme();
     const isDark = theme.palette.mode === 'dark';
@@ -88,22 +72,6 @@ export default function EventCalendar() {
         setPopoverAnchorEl(null);
         setSelectedEvent(null);
     }, []);
-
-    if (loading) {
-        return (
-            <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: 400 }}>
-                <CircularProgress />
-            </Box>
-        );
-    }
-
-    if (error) {
-        return (
-            <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: 400 }}>
-                <Typography color="error">{error}</Typography>
-            </Box>
-        );
-    }
 
     return (
         <Box>
